@@ -358,7 +358,7 @@ Based on these examples, follow these versioning best practices:
 
 ## References
 
-- IEEE Standard 7003-2023 for Algorithmic Bias Considerations
-- ISO/IEC 24028:2020 Information technology — Overview of trustworthiness in artificial intelligence
-- NIST AI Risk Management Framework: Documentation Guidance
-- Global Financial Innovation Network (GFIN) Model Documentation Standards
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://sagroups.ieee.org/7003/)
+- ISO/IEC 24028:2020 Information technology — Overview of trustworthiness in artificial intelligence (Available via [ISO official website](https://www.iso.org))
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Global Financial Innovation Network (GFIN) Documentation](https://files.consumerfinance.gov/f/documents/bcfp_global-financial-innovation-network_consultation-document.pdf)

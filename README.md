@@ -38,10 +38,10 @@ We welcome contributions to improve the framework. Please see our contribution g
 
 This framework builds upon work from:
 
-- Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). [A survey on bias and fairness in machine learning](https://dl.acm.org/doi/10.1145/3457607). ACM Computing Surveys.
-- Barocas, S., Hardt, M., & Narayanan, A. (2023). [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org). fairmlbook.org
-- Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application.
-- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://standards.ieee.org/ieee/7003/11357/)
+- [Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A survey on bias and fairness in machine learning. ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3457607)
+- [Barocas, S., Hardt, M., & Narayanan, A. (2023). Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org)
+- [Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). Algorithmic fairness: Choices, assumptions, and definitions. Annual Review of Statistics and Its Application](https://www.annualreviews.org/doi/10.1146/annurev-statistics-042720-125902)
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://sagroups.ieee.org/7003/)
 
 ## License
 

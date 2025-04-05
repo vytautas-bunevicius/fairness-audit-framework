@@ -164,8 +164,8 @@ To transition from rapid to comprehensive assessment:
 
 ## References
 
-- ACM FAccT 2024 Tutorial: Rapid Fairness Assessment Methods
-- Google's Responsible AI Toolkit: Model Cards for Rapid Documentation
-- Fairness Indicators: Lightweight Metrics for Initial Assessment
-- NIST AI RMF: Scalable Assessment Approaches
-- Singapore's Model AI Governance Framework: Right-sized Assessment Approaches
+- [ACM FAccT 2024 Tutorial: Rapid Fairness Assessment Methods](https://facctconference.org/2024/acceptedtutorials)
+- [Google's Responsible AI Toolkit: Model Cards for Rapid Documentation](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)
+- [Fairness Indicators: Lightweight Metrics for Initial Assessment](https://www.tensorflow.org/tfx/guide/fairness_indicators)
+- [NIST AI RMF: Scalable Assessment Approaches](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Singapore's Model AI Governance Framework: Right-sized Assessment Approaches](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2024/public-consult-model-ai-governance-framework-genai)

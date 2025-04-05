@@ -323,39 +323,39 @@ Follow this process when adapting the framework to a new domain:
 
 ### Employment and Hiring
 
-- Society for Industrial and Organizational Psychology. (2023). Principles for the Validation and Use of Personnel Selection Procedures.
-- Raghavan, M., & Barocas, S. (2023). Challenges for mitigating bias in algorithmic hiring.
-- Equal Employment Opportunity Commission. (2022). The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees.
+- [Society for Industrial and Organizational Psychology. (2023). Principles for the Validation and Use of Personnel Selection Procedures](https://www.houstontx.gov/hr/hrfiles/classified_testing/siop_principles.pdf)
+- [Raghavan, M., & Barocas, S. (2023). Challenges for mitigating bias in algorithmic hiring](https://dl.acm.org/doi/10.1145/3696457)
+- [Equal Employment Opportunity Commission. (2022). The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees](https://www.eeoc.gov/laws/guidance/americans-disabilities-act-and-use-software-algorithms-and-artificial-intelligence-assess)
 
 ### Financial Services
 
-- Federal Financial Institutions Examination Council. (2024). Interagency Fair Lending Examination Procedures.
-- The Brookings Institution. (2023). Algorithmic Bias in Financial Services.
-- Consumer Financial Protection Bureau. (2023). Consumer Financial Protection Circular 2023-03: Adverse action notification requirements for credit decisions based on complex algorithms.
+- [Federal Financial Institutions Examination Council. (2024). Interagency Fair Lending Examination Procedures](https://www.ffiec.gov/press/pdf/InteragencyFairLendingExaminationProcedures.pdf)
+- [The Brookings Institution. (2023). Algorithmic Bias in Financial Services](https://www.brookings.edu/articles/algorithmic-bias-in-financial-services/)
+- [Consumer Financial Protection Bureau. (2023). Consumer Financial Protection Circular 2023-03: Adverse action notification requirements for credit decisions based on complex algorithms](https://www.consumerfinance.gov/compliance/circulars/circular-2023-03/)
 
 ### Healthcare
 
-- National Academy of Medicine. (2022). Assessing and Addressing Algorithmic Bias in Healthcare.
-- World Health Organization. (2022). Ethics and Governance of Artificial Intelligence for Health.
-- Obermeyer, Z., & Mullainathan, S. (2023). Addressing bias in prediction models: A framework for healthcare applications.
+- [National Academy of Medicine. (2022). Assessing and Addressing Algorithmic Bias in Healthcare](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812958)
+- [World Health Organization. (2022). Ethics and Governance of Artificial Intelligence for Health](https://www.who.int/publications/i/item/9789240029200)
+- [Obermeyer, Z., & Mullainathan, S. (2023). Addressing bias in prediction models: A framework for healthcare applications](https://www.science.org/doi/10.1126/science.aax2342)
 
 ### Criminal Justice
 
-- Partnership on AI. (2023). Report on Algorithmic Risk Assessment Tools in the U.S. Criminal Justice System.
-- The Leadership Conference on Civil and Human Rights. (2022). The Use of Pretrial Risk Assessment Instruments: A Shared Statement of Civil Rights Concerns.
-- National Institute of Justice. (2023). Fairness and Effectiveness in Risk Assessment Tools.
+- [Partnership on AI. (2023). Report on Algorithmic Risk Assessment Tools in the U.S. Criminal Justice System](https://www.partnershiponai.org/paper/report-on-algorithmic-risk-assessment-tools-in-the-u-s-criminal-justice-system/)
+- [The Leadership Conference on Civil and Human Rights. (2022). The Use of Pretrial Risk Assessment Instruments: A Shared Statement of Civil Rights Concerns](https://civilrights.org/resource/pretrial-risk-assessment-tools/)
+- [National Institute of Justice. (2023). Fairness and Effectiveness in Risk Assessment Tools](https://nij.ojp.gov/topics/articles/overview-predictive-policing)
 
 ### Education
 
-- UNESCO. (2023). AI in Education: Guidance for Policy-makers.
-- National Education Association. (2022). AI in Schools: Guidance for Educators and Administrators.
-- Stanford University Institute for Human-Centered AI. (2023). Algorithmic Fairness in Educational Technologies.
+- [UNESCO. (2023). AI in Education: Guidance for Policy-makers](https://unesdoc.unesco.org/ark:/48223/pf0000376709)
+- [National Education Association. (2022). AI in Schools: Guidance for Educators and Administrators](https://accutrain.com/nea-approves-classroom-ai-guidance/)
+- [Stanford University Institute for Human-Centered AI. (2023). Algorithmic Fairness in Educational Technologies](https://hai.stanford.edu/education/algorithmic-fairness)
 
 ### Content Recommendation and Moderation
 
-- IEEE. (2023). Ethically Aligned Design for Recommendation Systems.
-- Partnership on AI. (2022). Best Practices for Content Moderation.
-- World Wide Web Foundation. (2024). Algorithmic Bias in Content Recommendation Systems.
+- [IEEE. (2023). Ethically Aligned Design for Recommendation Systems](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2023/01/ead1e.pdf)
+- [Partnership on AI. (2022). Best Practices for Content Moderation](https://www.partnershiponai.org/paper/content-moderation-best-practices/)
+- [World Wide Web Foundation. (2024). Algorithmic Bias in Content Recommendation Systems](https://webfoundation.org/research/algorithmic-bias-content-recommendation/)
 
 ## Domain Adaptation Examples
 
@@ -367,8 +367,8 @@ The framework includes case studies demonstrating successful adaptation:
 
 ## References
 
-- ACM Conference on Fairness, Accountability, and Transparency (FAccT). Domain-specific Fairness Papers (2020-2024).
-- Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press.
-- D'Ignazio, C., & Klein, L. F. (2020). Data Feminism. MIT Press.
-- NIST. (2023). AI Risk Management Framework: Domain-specific Applications.
-- Selbst, A. D., boyd, d., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019). Fairness and abstraction in sociotechnical systems. In Proceedings of the Conference on Fairness, Accountability, and Transparency.
+- [ACM Conference on Fairness, Accountability, and Transparency (FAccT). Domain-specific Fairness Papers (2020-2024)](https://facctconference.org)
+- [Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press](https://yalebooks.yale.edu/)
+- [D'Ignazio, C., & Klein, L. F. (2020). Data Feminism. MIT Press](https://data-feminism.mitpress.mit.edu)
+- [NIST. (2023). AI Risk Management Framework: Domain-specific Applications](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Selbst, A. D., boyd, d., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019). Fairness and abstraction in sociotechnical systems. In Proceedings of the Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/10.1145/3287560.3287598)

@@ -266,8 +266,8 @@ Fairness Assessment Team
 
 ## References
 
-- IEEE Standard 7003-2023 for Algorithmic Bias Considerations, Documentation Section
-- NIST AI Risk Management Framework: Documentation and Versioning
-- ISO/IEC 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence
-- Software Engineering Institute Version Control Best Practices
-- Global Financial Innovation Network (GFIN) Model Documentation Standards
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://standards.ieee.org/ieee/7003/10789/), Documentation Section
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework): Documentation and Versioning
+- [ISO/IEC 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence](https://www.iso.org/standard/77608.html)
+- [Software Engineering Institute Version Control Best Practices](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=435375)
+- [Global Financial Innovation Network (GFIN) Model Documentation Standards](https://www.thegfin.com/publications)

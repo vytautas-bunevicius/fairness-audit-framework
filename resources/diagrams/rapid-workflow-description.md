@@ -113,5 +113,4 @@ This text description should be used to create an actual diagram using appropria
 Recommended visualization tools:
 - Lucidchart
 - draw.io
-- Microsoft Visio
 - Mermaid diagram code

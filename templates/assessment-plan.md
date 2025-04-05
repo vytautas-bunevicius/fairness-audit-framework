@@ -164,7 +164,7 @@
 
 ## References
 
-- NIST AI Risk Management Framework (AI RMF)
-- IEEE Standard 7003-2023 for Algorithmic Bias Considerations
-- ISO/IEC TR 24027:2021 Information technology — Artificial intelligence
-- EU AI Act Requirements for High-Risk AI Systems
+- [NIST AI Risk Management Framework (AI RMF)](https://airc.nist.gov/airmf-resources/airmf/)
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://sagroups.ieee.org/7003/)
+- [ISO/IEC TR 24027:2021 Information technology — Artificial intelligence](https://standards.iteh.ai/catalog/standards/clc/a5e79e93-9141-4566-a080-c14d12beb25c/cen-clc-iso-iec-tr-24027-2023)
+- [EU AI Act Requirements for High-Risk AI Systems](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them)

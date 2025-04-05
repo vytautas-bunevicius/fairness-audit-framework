@@ -249,8 +249,8 @@ To maintain assessment quality:
 
 ## References
 
-- NIST Special Publication 1270: Towards a Standard for Identifying and Managing Bias in Artificial Intelligence
-- ACM FAccT (Fairness, Accountability, and Transparency) Proceedings 2022-2024
-- Canadian Algorithmic Impact Assessment Framework
-- UK Information Commissioner's Office: Guidance on AI and Data Protection
-- EU AI Act Requirements for High-Risk AI Systems
+- [NIST Special Publication 1270: Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://www.nist.gov/news-events/news/2022/03/theres-more-ai-bias-biased-data-nist-report-highlights)
+- [ACM FAccT (Fairness, Accountability, and Transparency) Proceedings 2022-2024](https://dl.acm.org/conference/facct)
+- [Canadian Algorithmic Impact Assessment Framework](https://open.canada.ca/data/en/dataset/5423054a-093c-4239-85be-fa0b36ae0b2e)
+- [UK Information Commissioner's Office: Guidance on AI and Data Protection](https://www.clearyiptechinsights.com/2023/04/uk-ico-updates-guidance-on-ai-and-data-protection)
+- [EU AI Act Requirements for High-Risk AI Systems](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them)

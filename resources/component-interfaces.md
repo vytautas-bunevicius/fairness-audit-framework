@@ -373,8 +373,8 @@ For consistent implementation:
 
 ## References
 
-- IEEE Standard 7003-2023 for Algorithmic Bias Considerations
-- W3C Data Catalog Vocabulary (DCAT)
-- ISO/IEC 25012:2008 Data Quality Model
-- NIST AI Risk Management Framework (AI RMF)
-- ML Commons Bias and Fairness Working Group Standards
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://standards.ieee.org/ieee/7003/10789/)
+- [W3C Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/)
+- [ISO/IEC 25012:2008 Data Quality Model](https://www.iso.org/standard/35736.html)
+- [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
+- [ML Commons Bias and Fairness Working Group Standards](https://mlcommons.org/en/groups/research-bias-fairness/)

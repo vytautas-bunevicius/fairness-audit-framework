@@ -171,7 +171,7 @@ Overall accuracy decreased by 2.3%, within the acceptable range established duri
 
 ## References
 
-- Raghavan, M., Barocas, S., Kleinberg, J., & Levy, K. (2020). Mitigating bias in algorithmic hiring: Evaluating claims and practices. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.
-- EEOC Guidance on Artificial Intelligence and ADA Compliance (2023)
-- Oxford Internet Institute. (2024). Best Practices for Algorithmic Hiring Assessment.
-- World Economic Forum. (2023). Global Framework for Responsible AI in Employment.
+- [Raghavan, M., Barocas, S., Kleinberg, J., & Levy, K. (2020). Mitigating bias in algorithmic hiring: Evaluating claims and practices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3408010)
+- [EEOC Guidance on Artificial Intelligence and ADA Compliance (2023)](https://ogletree.com/insights-resources/blog-posts/eeoc-issues-new-guidance-on-employer-use-of-ai-and-disparate-impact-potential/)
+- [Oxford Internet Institute. (2024). Best Practices for Algorithmic Hiring Assessment](https://www.oii.ox.ac.uk/research/projects/algorithmic-hiring-assessment/)
+- [World Economic Forum. (2023). Global Framework for Responsible AI in Employment](https://www.weforum.org/press/2023/11/global-leaders-advance-responsible-ai-development-at-governance-summit/)

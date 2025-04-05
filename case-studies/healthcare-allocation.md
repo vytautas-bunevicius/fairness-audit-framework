@@ -242,9 +242,7 @@ The Fairness Audit Framework demonstrated particular value in healthcare through
 
 ## References
 
-- Agency for Healthcare Research and Quality. (2023). National Healthcare Disparities Report.
-- Algorithmic Bias in Healthcare Working Group. (2024). Guidance for Equity-Centered Clinical Algorithms.
-- Candemir, S., & Antani, S. (2023). Addressing bias in healthcare AI: A systematic review. Journal of the American Medical Informatics Association.
-- Institute of Medicine. (2003). Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care.
-- Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science.
-- World Health Organization. (2022). Ethics and governance of artificial intelligence for health: WHO guidance.
+- [Agency for Healthcare Research and Quality. (2023). National Healthcare Disparities Report](https://ahrq-stage.ahrq.gov/sites/default/files/wysiwyg/research/findings/nhqrdr/2023nhqdr-introduction-rev.pdf)
+- [World Health Organization. (2022). Ethics and Governance of Artificial Intelligence for Health](https://www.who.int/publications/i/item/9789240029200)
+- [Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science](https://www.science.org/doi/10.1126/science.aax2342)
+- [Institute of Medicine. (2003). Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care](https://www.ncbi.nlm.nih.gov/books/NBK220358/)

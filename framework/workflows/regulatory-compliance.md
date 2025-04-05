@@ -240,10 +240,10 @@ Balance these competing needs:
 
 ## References
 
-- EU AI Act (2024), Articles 9-11 and Annex IV
-- UK Algorithmic Transparency Standard and Registry
-- EEOC Uniform Guidelines on Employee Selection Procedures
-- Federal Reserve SR 11-7: Model Risk Management
-- NIST AI Risk Management Framework: Documentation Specifications
-- Office of the Comptroller of the Currency: Fair Lending Supervision Procedures
-- IEEE Standard 7003-2023 for Algorithmic Bias Considerations, Documentation Section
+- [EU AI Act (2024), Articles 9-11 and Annex IV](https://artificialintelligenceact.com/articles/article-9-11-annex-iv/)
+- [UK Algorithmic Transparency Standard and Registry](https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub)
+- [EEOC Uniform Guidelines on Employee Selection Procedures](https://www.shrm.org/topics-tools/news/talent-acquisition/clearing-misconceptions-uniform-guidelines-employee-selection-procedures)
+- [Federal Reserve SR 11-7: Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
+- [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)
+- [Office of the Comptroller of the Currency: Fair Lending Supervision Procedures](https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf)
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://standards.ieee.org/ieee/7003/10789/)

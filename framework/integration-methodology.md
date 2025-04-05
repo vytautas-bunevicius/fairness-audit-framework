@@ -169,8 +169,8 @@ To maintain assessment integrity:
 
 ## References
 
-- ACM FAccT (Conference on Fairness, Accountability, and Transparency) Proceedings 2022-2024
-- NIST Special Publication 1270: Towards a Standard for Identifying and Managing Bias in Artificial Intelligence
-- ISO/IEC TR 24027:2021 Information technology — Artificial intelligence — Bias in AI systems and AI aided decision making
-- UK Algorithmic Transparency Standard Registry
-- EU AI Act (2024) Requirements for High-Risk AI Systems
+- [ACM FAccT (Conference on Fairness, Accountability, and Transparency) Proceedings 2022-2024](https://facctconference.org/2022/)
+- [NIST Special Publication 1270: Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://www.nist.gov/news-events/news/2022/03/theres-more-ai-bias-biased-data-nist-report-highlights)
+- [ISO/IEC TR 24027:2021 Information technology — Artificial intelligence — Bias in AI systems and AI aided decision making](https://standards.iteh.ai/catalog/standards/clc/a5e79e93-9141-4566-a080-c14d12beb25c/cen-clc-iso-iec-tr-24027-2023)
+- [UK Algorithmic Transparency Standard Registry](https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub)
+- [EU AI Act (2024) Requirements for High-Risk AI Systems](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them)

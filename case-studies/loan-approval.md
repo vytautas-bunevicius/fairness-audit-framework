@@ -228,8 +228,8 @@ The Fairness Audit Framework demonstrated particular value in:
 
 ## References
 
-- Bartlett, R., Morse, A., Stanton, R., & Wallace, N. (2022). Consumer-lending discrimination in the FinTech era. Journal of Financial Economics.
-- Consumer Financial Protection Bureau. (2023). Fair Lending Report.
-- Federal Reserve Board. (2024). SR 11-7: Guidance on Model Risk Management.
-- Fuster, A., Goldsmith-Pinkham, P., Ramadorai, T., & Walther, A. (2022). Predictably unequal? The effects of machine learning on credit markets. Journal of Finance.
-- Office of the Comptroller of the Currency. (2023). Project REACh: Roundtable for Economic Access and Change.
+- [Bartlett, R., Morse, A., Stanton, R., & Wallace, N. (2022). Consumer-lending discrimination in the FinTech era. Journal of Financial Economics](https://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf)
+- [Consumer Financial Protection Bureau. (2023). Fair Lending Report](https://www.consumerfinance.gov/about-us/blog/the-cfpbs-2023-fair-lending-annual-report-to-congress/)
+- [Federal Reserve Board. (2024). SR 11-7: Guidance on Model Risk Management](https://krista.ai/how-to-comply-with-sr-11-7-guidance-on-model-risk-management/)
+- [Fuster, A., Goldsmith-Pinkham, P., Ramadorai, T., & Walther, A. (2022). Predictably unequal? The effects of machine learning on credit markets. Journal of Finance](https://law-journals-books.vlex.com/vid/predictably-unequal-the-effects-1049463888)
+- [Office of the Comptroller of the Currency. (2023). Project REACh: Roundtable for Economic Access and Change](https://www.occ.gov/topics/consumers-and-communities/minority-outreach/project-reach.html)
