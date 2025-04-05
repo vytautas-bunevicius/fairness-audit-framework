@@ -45,4 +45,4 @@ This framework builds upon work from:
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This project is released under the [Unlicense](https://unlicense.org/). This means the work is dedicated to the public domain and you can copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
