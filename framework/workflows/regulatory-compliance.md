@@ -4,7 +4,7 @@ This workflow is specifically designed to produce comprehensive documentation th
 
 ## Workflow Overview
 
-![Regulatory Compliance Workflow](../resources/diagrams/regulatory-workflow.png)
+![Regulatory Compliance Workflow](/resources/diagrams/regulatory-compliance.png)
 
 The regulatory compliance workflow follows this structured approach:
 

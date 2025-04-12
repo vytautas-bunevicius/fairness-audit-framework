@@ -4,7 +4,7 @@ This workflow provides a streamlined approach for initial fairness evaluation of
 
 ## Workflow Overview
 
-![Rapid Assessment Workflow](../resources/diagrams/rapid-workflow.png)
+![Rapid Assessment Workflow](/resources/diagrams/rapid-workflow.png)
 
 The rapid assessment follows this streamlined structure:
 
