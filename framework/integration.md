@@ -44,7 +44,7 @@ The real value comes from looking across the components:
 
 *   **Workflows**: Use the defined workflows in the [workflows/](workflows/) directory to manage the sequence and ensure steps aren't missed.
 *   **Templates**: Use the templates in [templates/](../templates/) consistently for standardized outputs that facilitate information flow and review.
-*   **Versioning**: Track assessment versions as described in [guide.md](workflows/guide.md) to manage changes and updates effectively. When updating one component's output, consider the downstream impact and potentially update subsequent component documents and the overall assessment version.
+*   **Versioning**: Track assessment versions as described in [guide.md](core-guide.md) to manage changes and updates effectively. When updating one component's output, consider the downstream impact and potentially update subsequent component documents and the overall assessment version.
 *   **Review**: Conduct reviews not just of individual component outputs, but specifically of the *connections* between them.
 
 *   **Domain/Regulatory Adaptation**: See [adaptation-compliance.md](../resources/adaptation-compliance.md). Tailor the focus based on industry (hiring, finance, health) and legal requirements (EU AI Act, EEOC, etc.).
