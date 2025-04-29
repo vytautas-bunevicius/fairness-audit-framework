@@ -30,10 +30,6 @@ The completed framework directly improves fairness outcomes in various real-worl
 3. Use templates from the `templates/` directory for standardized documentation
 4. Reference case studies in `case-studies/` for practical examples
 
-## Contribution Guidelines
-
-We welcome contributions to improve the framework. Please see our contribution guidelines before submitting changes.
-
 ## References
 
 This framework builds upon work from:
