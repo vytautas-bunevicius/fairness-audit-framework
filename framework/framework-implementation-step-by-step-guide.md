@@ -57,7 +57,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 **When to use**: For initial screening, lower-risk applications, or time-constrained assessments.
 
 **Implementation steps**:
-1. Complete the [Assessment Plan Template](../templates/assessment-plan.md) with a focused scope
+1. Complete the [Assessment Plan Template](../templates/template-assessment-plan.md) with a focused scope
 2. Follow the [Rapid Assessment Workflow](workflows/rapid-assessment.md)
 3. Use simplified documentation templates
 
@@ -66,7 +66,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 **When to use**: For high-stakes AI systems with significant potential impact on individuals or groups.
 
 **Implementation steps**:
-1. Complete the full [Assessment Plan Template](../templates/assessment-plan.md)
+1. Complete the full [Assessment Plan Template](../templates/template-assessment-plan.md)
 2. Follow the [Comprehensive Assessment Workflow](workflows/comprehensive-assessment.md)
 3. Complete all documentation templates with full detail
 
@@ -75,7 +75,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 **When to use**: For AI systems that must demonstrate compliance with specific regulations.
 
 **Implementation steps**:
-1. Complete the compliance-focused [Assessment Plan Template](../templates/assessment-plan.md)
+1. Complete the compliance-focused [Assessment Plan Template](../templates/template-assessment-plan.md)
 2. Follow the [Regulatory Compliance Workflow](workflows/regulatory-compliance.md)
 3. Focus on documentation templates most relevant to regulatory requirements
 
@@ -87,7 +87,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Research relevant historical patterns of discrimination in the domain
 - Review legal cases, academic literature, and domain expert input
 - Map identified patterns to specific AI application risks
-- Document findings using the [Historical Context Report Template](../templates/historical-context-report.md)
+- Document findings using the [Historical Context Report Template](../templates/template-historical-context-assessment-report.md)
 
 **Implementation tips**:
 - Consult with domain experts and affected communities
@@ -107,7 +107,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Review potential fairness definitions in light of identified historical patterns
 - Apply decision trees to narrow definition options
 - Conduct trade-off analysis between competing definitions
-- Document rationale using the [Fairness Definition Rationale Template](../templates/fairness-definition-rationale.md)
+- Document rationale using the [Fairness Definition Rationale Template](../templates/template-fairness-definition-selection-rationale.md)
 
 **Implementation tips**:
 - Consider multiple fairness definitions rather than assuming one is sufficient
@@ -127,7 +127,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Analyze data collection and preparation processes
 - Review feature engineering and selection approaches
 - Evaluate model architecture and training procedures
-- Document findings using the [Bias Source Mapping Template](../templates/bias-source-mapping.md)
+- Document findings using the [Bias Source Mapping Template](../templates/template-bias-source-mapping-and-risk-assessment.md)
 
 **Implementation tips**:
 - Examine the full AI lifecycle, not just the model itself
@@ -147,7 +147,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Select metrics aligned with chosen fairness definitions
 - Implement metrics with statistical validation
 - Calculate metrics across different data slices
-- Document implementation using the [Metrics Implementation Template](../templates/metrics-implementation.md)
+- Document implementation using the [Metrics Implementation Template](../templates/template-metrics-implementation-and-results.md)
 
 **Implementation tips**:
 - Use established libraries for metric calculation
@@ -284,9 +284,9 @@ Establish processes for ongoing framework improvement:
 
 For practical examples of framework implementation, refer to:
 
-1. [Hiring Algorithm Case Study](../case-studies/hiring-algorithm.md)
-2. [Loan Approval Case Study](../case-studies/loan-approval.md)
-3. [Healthcare Resource Allocation Case Study](../case-studies/healthcare-allocation.md)
+1. [Hiring Algorithm Case Study](../case-studies/case-study-example-hiring-algorithm-assessment.md)
+2. [Loan Approval Case Study](../case-studies/case-study-example-loan-approval-compliance.md)
+3. [Healthcare Resource Allocation Case Study](../case-studies/case-study-example-healthcare-resource-allocation.md)
 
 ## Additional Resources
 

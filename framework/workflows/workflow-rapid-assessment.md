@@ -33,7 +33,7 @@ The rapid assessment follows this streamlined structure:
 **Time Allocation**: 1-2 days
 
 **Documentation**:
-- Complete the *essential sections only* from the [Historical Context Report Template](../../templates/historical-context-report.md)
+- Complete the *essential sections only* from the [Historical Context Report Template](../../templates/template-historical-context-assessment-report.md)
 
 ### 2. Key Fairness Definitions
 
@@ -52,7 +52,7 @@ The rapid assessment follows this streamlined structure:
 **Time Allocation**: 0.5-1 day
 
 **Documentation**:
-- Complete the *core sections only* from the [Fairness Definition Rationale Template](../../templates/fairness-definition-rationale.md)
+- Complete the *core sections only* from the [Fairness Definition Rationale Template](../../templates/template-fairness-definition-selection-rationale.md)
 
 ### 3. Critical Bias Analysis
 
@@ -71,7 +71,7 @@ The rapid assessment follows this streamlined structure:
 **Time Allocation**: 1-2 days
 
 **Documentation**:
-- Complete the *priority sections only* from the [Bias Source Mapping Template](../../templates/bias-source-mapping.md)
+- Complete the *priority sections only* from the [Bias Source Mapping Template](../../templates/template-bias-source-mapping-and-risk-assessment.md)
 
 ### 4. Core Metrics Evaluation
 
@@ -90,7 +90,7 @@ The rapid assessment follows this streamlined structure:
 **Time Allocation**: 1-2 days
 
 **Documentation**:
-- Complete the *essential sections only* from the [Metrics Implementation Template](../../templates/metrics-implementation.md)
+- Complete the *essential sections only* from the [Metrics Implementation Template](../../templates/template-metrics-implementation-and-results.md)
 
 ### 5. Findings & Recommendations
 
@@ -110,8 +110,8 @@ The rapid assessment follows this streamlined structure:
 **Time Allocation**: 1 day
 
 **Documentation**:
-- Complete the [Executive Summary Template](../../templates/executive-summary.md)
-- Complete the [Limitations Acknowledgment Template](../../templates/limitations-acknowledgment.md)
+- Complete the [Executive Summary Template](../../templates/template-assessment-executive-summary.md)
+- Complete the [Limitations Acknowledgment Template](../../templates/template-assessment-limitations-acknowledgment.md)
 
 ## Adaptation Guidelines
 
