@@ -1,7 +1,5 @@
 # Fairness Audit Framework: A Comprehensive Methodology
 
-**(This file: `README-Framework-Introduction.md`)**
-
 This repository contains a comprehensive methodology and associated resources for conducting systematic fairness assessments of AI systems.
 
 ## Overview
