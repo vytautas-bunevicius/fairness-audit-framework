@@ -60,8 +60,8 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 
 **Implementation steps**:
 
-1. Complete the [Assessment Plan Template](../templates/template-assessment-plan.md) with a focused scope
-2. Follow the [Rapid Assessment Workflow](workflows/rapid-assessment.md)
+1. Complete the [Assessment Plan Template](../../templates/assessment/assessment-plan.md) with a focused scope
+2. Follow the [Rapid Assessment Workflow](../workflows/01-rapid-assessment.md)
 3. Use simplified documentation templates
 
 ### Comprehensive Assessment Workflow
@@ -70,8 +70,8 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 
 **Implementation steps**:
 
-1. Complete the full [Assessment Plan Template](../templates/template-assessment-plan.md)
-2. Follow the [Comprehensive Assessment Workflow](workflows/comprehensive-assessment.md)
+1. Complete the full [Assessment Plan Template](../../templates/assessment/assessment-plan.md)
+2. Follow the [Comprehensive Assessment Workflow](../workflows/02-comprehensive-assessment.md)
 3. Complete all documentation templates with full detail
 
 ### Regulatory Compliance Workflow
@@ -80,8 +80,8 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 
 **Implementation steps**:
 
-1. Complete the compliance-focused [Assessment Plan Template](../templates/template-assessment-plan.md)
-2. Follow the [Regulatory Compliance Workflow](workflows/regulatory-compliance.md)
+1. Complete the compliance-focused [Assessment Plan Template](../../templates/assessment/assessment-plan.md)
+2. Follow the [Regulatory Compliance Workflow](../workflows/04-regulatory-compliance.md)
 3. Focus on documentation templates most relevant to regulatory requirements
 
 ## Implementing Framework Components
@@ -94,7 +94,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Review legal cases, academic literature, and domain expert input
 - Map identified patterns to specific AI application risks
 - Document findings using
-  the [Historical Context Report Template](../templates/template-historical-context-assessment-report.md)
+  the [Historical Context Report Template](../../templates/assessment/historical-context.md)
 
 **Implementation tips**:
 
@@ -118,7 +118,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Apply decision trees to narrow definition options
 - Conduct trade-off analysis between competing definitions
 - Document rationale using
-  the [Fairness Definition Rationale Template](../templates/template-fairness-definition-selection-rationale.md)
+  the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md)
 
 **Implementation tips**:
 
@@ -142,7 +142,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Review feature engineering and selection approaches
 - Evaluate model architecture and training procedures
 - Document findings using
-  the [Bias Source Mapping Template](../templates/template-bias-source-mapping-and-risk-assessment.md)
+  the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md)
 
 **Implementation tips**:
 
@@ -166,7 +166,7 @@ Choose the appropriate workflow based on your AI system's risk level and assessm
 - Implement metrics with statistical validation
 - Calculate metrics across different data slices
 - Document implementation using
-  the [Metrics Implementation Template](../templates/template-metrics-implementation-and-results.md)
+  the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md)
 
 **Implementation tips**:
 
@@ -305,9 +305,9 @@ Establish processes for ongoing framework improvement:
 
 For practical examples of framework implementation, refer to:
 
-1. [Hiring Algorithm Case Study](../case-studies/case-study-example-hiring-algorithm-assessment.md)
-2. [Loan Approval Case Study](../case-studies/case-study-example-loan-approval-compliance.md)
-3. [Healthcare Resource Allocation Case Study](../case-studies/case-study-example-healthcare-resource-allocation.md)
+1. [Hiring Algorithm Case Study](../../case-studies/hr/hiring-algorithm.md)
+2. [Loan Approval Case Study](../../case-studies/finance/loan-approval.md)
+3. [Healthcare Resource Allocation Case Study](../../case-studies/healthcare/resource-allocation.md)
 
 ## Additional Resources
 
@@ -331,11 +331,3 @@ For practical examples of framework implementation, refer to:
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework): Guidelines for AI risk
   management
 - [IEEE 7003-2023](https://standards.ieee.org/ieee/7003/10199/): Standard for algorithmic bias considerations
-
-## Support and Contact
-
-For questions or support implementing the framework, contact:
-
-- Framework Maintainers: [maintainers@fairness-framework.org](mailto:maintainers@fairness-framework.org)
-- Community Forum: [community.fairness-framework.org](https://community.fairness-framework.org)
-- Issue Tracker: [github.com/fairness-framework/issues](https://github.com/fairness-framework/issues)
