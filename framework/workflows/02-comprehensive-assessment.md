@@ -24,7 +24,7 @@ The comprehensive assessment follows this progressive structure:
 **Objective**: Establish assessment scope, stakeholder involvement, and resource allocation.
 
 **Activities**:
-- Complete the [Assessment Plan Template](../../templates/template-assessment-plan.md)
+- Complete the [Assessment Plan Template](../../templates/assessment/assessment-plan.md)
 - Identify and engage key stakeholders
 - Gather system documentation and specifications
 - Allocate specialized expertise for each component
@@ -60,7 +60,7 @@ The comprehensive assessment follows this progressive structure:
 - Provides context for Bias Source Identification
 
 **Documentation**:
-- Complete the [Historical Context Report Template](../../templates/template-historical-context-assessment-report.md)
+- Complete the [Historical Context Report Template](../../templates/assessment/historical-context.md)
 
 ### 3. Fairness Definition Selection
 
@@ -84,7 +84,7 @@ The comprehensive assessment follows this progressive structure:
 - Determines appropriate metrics for implementation
 
 **Documentation**:
-- Complete the [Fairness Definition Rationale Template](../../templates/template-fairness-definition-selection-rationale.md)
+- Complete the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md)
 
 ### 4. Bias Source Identification
 
@@ -108,7 +108,7 @@ The comprehensive assessment follows this progressive structure:
 - Determines metric implementation focus
 
 **Documentation**:
-- Complete the [Bias Source Mapping Template](../../templates/template-bias-source-mapping-and-risk-assessment.md)
+- Complete the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md)
 
 ### 5. Metrics Implementation & Analysis
 
@@ -132,8 +132,8 @@ The comprehensive assessment follows this progressive structure:
 - Provides evidence for intervention recommendations
 
 **Documentation**:
-- Complete the [Metrics Implementation Template](../../templates/template-metrics-implementation-and-results.md)
-- Complete the [Intersectional Analysis Template](../../templates/template-intersectional-analysis-report.md)
+- Complete the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md)
+- Complete the [Intersectional Analysis Template](../../templates/assessment/intersectional-analysis.md)
 
 ### 6. Integration & Synthesis
 
@@ -156,7 +156,7 @@ The comprehensive assessment follows this progressive structure:
 - Prepares for validation and verification
 
 **Documentation**:
-- Begin drafting the [Assessment Summary Template](../../templates/template-assessment-executive-summary.md)
+- Begin drafting the [Assessment Summary Template](../../templates/assessment/executive-summary.md)
 
 ### 7. Validation & Verification
 
@@ -180,7 +180,7 @@ The comprehensive assessment follows this progressive structure:
 - Establishes confidence in findings
 
 **Documentation**:
-- Complete the [Limitations Acknowledgment Template](../../templates/template-assessment-limitations-acknowledgment.md)
+- Complete the [Limitations Acknowledgment Template](../../templates/assessment/limitations.md)
 
 ### 8. Documentation & Reporting
 
@@ -204,7 +204,7 @@ The comprehensive assessment follows this progressive structure:
 
 **Documentation**:
 - Finalize all templates
-- Complete the [Assessment Summary Template](../../templates/template-assessment-executive-summary.md)
+- Complete the [Assessment Summary Template](../../templates/assessment/executive-summary.md)
 
 ## Adaptation Guidelines
 

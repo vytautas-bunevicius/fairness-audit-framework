@@ -39,7 +39,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Informs metric selection and threshold setting
 
 **Documentation**:
-- Complete the [Monitoring Setup Template](../../templates/template-monitoring-setup-configuration.md)
+- Complete the [Monitoring Setup Template](../../templates/monitoring/setup-configuration.md)
 
 ### 2. Metric Selection & Threshold Definition
 
@@ -62,7 +62,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Guides data collection requirements
 
 **Documentation**:
-- Complete the [Monitoring Metrics Template](../../templates/template-monitoring-metrics-and-thresholds.md)
+- Complete the [Monitoring Metrics Template](../../templates/monitoring/metrics-and-thresholds.md)
 
 ### 3. Data Collection & Pipeline Integration
 
@@ -85,7 +85,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Enables automated analysis
 
 **Documentation**:
-- Complete the [Monitoring Pipeline Template](../../templates/template-monitoring-pipeline-and-integration.md)
+- Complete the [Monitoring Pipeline Template](../../templates/monitoring/pipeline-and-integration.md)
 
 ### 4. Automated Analysis & Alerting
 
@@ -108,7 +108,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Generates alerts that trigger investigation
 
 **Documentation**:
-- Complete the [Monitoring Dashboard Template](../../templates/template-monitoring-dashboard-configuration.md)
+- Complete the [Monitoring Dashboard Template](../../templates/monitoring/dashboard-configuration.md)
 
 ### 5. Drift Investigation & Root Cause Analysis
 
@@ -131,7 +131,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Informs intervention needs
 
 **Documentation**:
-- Complete the [Drift Investigation Template](../../templates/template-monitoring-drift-investigation-report.md)
+- Complete the [Drift Investigation Template](../../templates/monitoring/drift-investigation.md)
 
 ### 6. Intervention & Remediation
 
@@ -154,7 +154,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Leads to documentation and reporting
 
 **Documentation**:
-- Complete the [Remediation Plan Template](../../templates/remediation-plan.md)
+- Complete the [Remediation Plan Template](../../templates/monitoring/remediation-plan.md)
 
 ### 7. Reporting & Documentation
 
@@ -177,8 +177,7 @@ The continuous monitoring workflow follows this cyclical structure:
 - Feeds back into monitoring setup for continuous improvement
 
 **Documentation**:
-- Complete the [Drift Documentation Template](../../templates/drift-documentation.md)
-- Update the [Model Card Template](../../templates/model-card.md) with drift history
+- Complete the [Periodic Report Template](../../templates/monitoring/periodic-report.md)
 
 ## Implementation Approaches
 

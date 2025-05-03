@@ -62,7 +62,7 @@ The regulatory compliance workflow follows this structured approach:
 - Establishes historical basis for regulatory concerns
 
 **Documentation**:
-- Complete the [Historical Context Report Template](../../templates/template-historical-context-assessment-report.md) with added regulatory section
+- Complete the [Historical Context Report Template](../../templates/assessment/historical-context.md) with added regulatory section
 
 ### 3. Fairness Definition Justification
 
@@ -86,7 +86,7 @@ The regulatory compliance workflow follows this structured approach:
 - Determines metrics required for compliance
 
 **Documentation**:
-- Complete the [Fairness Definition Rationale Template](../../templates/template-fairness-definition-selection-rationale.md) with expanded regulatory justification
+- Complete the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md) with expanded regulatory justification
 
 ### 4. Comprehensive Bias Documentation
 
@@ -110,7 +110,7 @@ The regulatory compliance workflow follows this structured approach:
 - Provides basis for evidence compilation
 
 **Documentation**:
-- Complete the [Bias Source Mapping Template](../../templates/template-bias-source-mapping-and-risk-assessment.md) with expanded compliance sections
+- Complete the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md) with expanded compliance sections
 
 ### 5. Metrics Implementation & Validation
 
@@ -134,8 +134,8 @@ The regulatory compliance workflow follows this structured approach:
 - Feeds into compliance documentation
 
 **Documentation**:
-- Complete the [Metrics Implementation Template](../../templates/template-metrics-implementation-and-results.md) with added statistical validation
-- Complete the [Intersectional Analysis Template](../../templates/template-intersectional-analysis-report.md) with regulatory context
+- Complete the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md) with added statistical validation
+- Complete the [Intersectional Analysis Template](../../templates/assessment/intersectional-analysis.md) with regulatory context
 
 ### 6. Evidence Compilation
 
@@ -159,7 +159,7 @@ The regulatory compliance workflow follows this structured approach:
 
 **Documentation**:
 - Create Evidence Compilation Document (custom template)
-- Complete the [Limitations Acknowledgment Template](../../templates/template-assessment-limitations-acknowledgment.md) with regulatory context
+- Complete the [Limitations Acknowledgment Template](../../templates/assessment/limitations.md) with regulatory context
 
 ### 7. Compliance Documentation Package
 
@@ -182,7 +182,7 @@ The regulatory compliance workflow follows this structured approach:
 - Ready for submission or governance review
 
 **Documentation**:
-- Complete the [Executive Summary Template](../../templates/template-assessment-executive-summary.md) with compliance focus
+- Complete the [Executive Summary Template](../../templates/assessment/executive-summary.md) with compliance focus
 - Create Regulatory Submission Package (custom format)
 
 ## Regulatory Framework Adaptations
