@@ -1,6 +1,8 @@
 # Regulatory Compliance Workflow
 
-This workflow is specifically designed to produce comprehensive documentation that satisfies regulatory and compliance requirements for AI fairness. Use this workflow when preparing documentation for regulatory submission, legal compliance, or formal governance processes.
+This workflow is specifically designed to produce comprehensive documentation that satisfies regulatory and compliance
+requirements for AI fairness. Use this workflow when preparing documentation for regulatory submission, legal
+compliance, or formal governance processes.
 
 ## Workflow Overview
 
@@ -25,6 +27,7 @@ The regulatory compliance workflow follows this structured approach:
 **Objective**: Identify all applicable regulations and requirements related to fairness and non-discrimination.
 
 **Activities**:
+
 - Conduct regulatory inventory of applicable laws and guidelines
 - Map specific regulatory requirements to assessment components
 - Identify documentation and evidence requirements
@@ -32,15 +35,18 @@ The regulatory compliance workflow follows this structured approach:
 - Engage legal and compliance stakeholders
 
 **Outputs**:
+
 - Regulatory Requirement Matrix
 - Evidence Requirements Catalog
 - Compliance Criteria Document
 
 **Connections**:
+
 - Guides the entire assessment process
 - Establishes documentation requirements
 
 **Documentation**:
+
 - Create custom section in Assessment Plan for regulatory mapping
 
 ### 2. Historical Context Documentation
@@ -48,6 +54,7 @@ The regulatory compliance workflow follows this structured approach:
 **Objective**: Thoroughly document relevant historical patterns of discrimination with emphasis on regulatory context.
 
 **Activities**:
+
 - Research historical patterns with focus on regulatory concerns
 - Document relevant legal precedents and enforcement actions
 - Connect historical patterns to specific regulatory provisions
@@ -55,22 +62,27 @@ The regulatory compliance workflow follows this structured approach:
 - Validate patterns with legal and subject matter experts
 
 **Outputs**:
+
 - Regulatory-focused Historical Pattern Registry
 - Legal Precedent Analysis
 - Regulatory Risk Mapping
 
 **Connections**:
+
 - Provides foundation for fairness definition selection
 - Establishes historical basis for regulatory concerns
 
 **Documentation**:
-- Complete the [Historical Context Report Template](../../templates/assessment/historical-context.md) with added regulatory section
+
+- Complete the [Historical Context Report Template](../../templates/assessment/historical-context.md) with added
+  regulatory section
 
 ### 3. Fairness Definition Justification
 
 **Objective**: Select and thoroughly justify fairness definitions with explicit connections to regulatory requirements.
 
 **Activities**:
+
 - Select fairness definitions addressing regulatory concerns
 - Document explicit rationale linked to regulatory provisions
 - Analyze regulatory precedents for definition acceptance
@@ -78,23 +90,28 @@ The regulatory compliance workflow follows this structured approach:
 - Document definition appropriateness with legal justification
 
 **Outputs**:
+
 - Regulatory-aligned Fairness Definitions
 - Formal Definition Justification
 - Compliance Rationale Document
 
 **Connections**:
+
 - Guided by regulatory mapping
 - Directs focus of bias source identification
 - Determines metrics required for compliance
 
 **Documentation**:
-- Complete the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md) with expanded regulatory justification
+
+- Complete the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md) with expanded
+  regulatory justification
 
 ### 4. Comprehensive Bias Documentation
 
 **Objective**: Exhaustively document potential bias sources with emphasis on regulatory risk areas.
 
 **Activities**:
+
 - Conduct thorough lifecycle analysis with regulatory lens
 - Document all potential bias sources, emphasizing regulatory hotspots
 - Assess severity using compliance-focused risk criteria
@@ -102,23 +119,28 @@ The regulatory compliance workflow follows this structured approach:
 - Validate bias assessment with legal and compliance experts
 
 **Outputs**:
+
 - Comprehensive Bias Source Catalog
 - Regulatory Risk Assessment
 - Mitigation Documentation
 
 **Connections**:
+
 - Informed by regulatory requirements
 - Guides metrics implementation
 - Provides basis for evidence compilation
 
 **Documentation**:
-- Complete the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md) with expanded compliance sections
+
+- Complete the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md) with expanded
+  compliance sections
 
 ### 5. Metrics Implementation & Validation
 
 **Objective**: Implement metrics with rigorous statistical validation that meets evidentiary standards.
 
 **Activities**:
+
 - Select metrics addressing regulatory fairness requirements
 - Implement with thorough statistical validation
 - Document methodology with statistical rigor
@@ -126,24 +148,30 @@ The regulatory compliance workflow follows this structured approach:
 - Benchmark against regulatory thresholds where available
 
 **Outputs**:
+
 - Regulatory Metrics Package
 - Statistical Validation Documentation
 - Threshold Analysis Report
 
 **Connections**:
+
 - Based on regulatory fairness definitions
 - Documents quantitative evidence for compliance
 - Feeds into compliance documentation
 
 **Documentation**:
-- Complete the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md) with added statistical validation
-- Complete the [Intersectional Analysis Template](../../templates/assessment/intersectional-analysis.md) with regulatory context
+
+- Complete the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md) with added
+  statistical validation
+- Complete the [Intersectional Analysis Template](../../templates/assessment/intersectional-analysis.md) with regulatory
+  context
 
 ### 6. Evidence Compilation
 
 **Objective**: Assemble comprehensive evidence package demonstrating compliance efforts.
 
 **Activities**:
+
 - Collect documentation from all previous components
 - Organize evidence according to regulatory requirements
 - Document assessment methodology with compliance framing
@@ -151,15 +179,18 @@ The regulatory compliance workflow follows this structured approach:
 - Validate evidence package with legal experts
 
 **Outputs**:
+
 - Evidence Catalog
 - Traceability Matrix
 - Methodology Documentation
 
 **Connections**:
+
 - Integrates outputs from all components
 - Prepares for regulatory submission
 
 **Documentation**:
+
 - Create Evidence Compilation Document (custom template)
 - Complete the [Limitations Acknowledgment Template](../../templates/assessment/limitations.md) with regulatory context
 
@@ -168,6 +199,7 @@ The regulatory compliance workflow follows this structured approach:
 **Objective**: Produce final documentation package ready for regulatory submission or governance review.
 
 **Activities**:
+
 - Create executive summary for compliance stakeholders
 - Finalize technical documentation with regulatory framing
 - Produce jurisdiction-specific compliance statements
@@ -175,15 +207,18 @@ The regulatory compliance workflow follows this structured approach:
 - Create non-technical overview for general audience
 
 **Outputs**:
+
 - Complete Compliance Documentation Package
 - Executive Summary for Regulators
 - Ongoing Compliance Plan
 
 **Connections**:
+
 - Final synthesis of all components
 - Ready for submission or governance review
 
 **Documentation**:
+
 - Complete the [Executive Summary Template](../../templates/assessment/executive-summary.md) with compliance focus
 - Create Regulatory Submission Package (custom format)
 

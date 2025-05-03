@@ -1,6 +1,7 @@
 # Rapid Assessment Workflow
 
-This workflow provides a streamlined approach for initial fairness evaluation of AI systems. Use this workflow for screening assessments, lower-risk applications, or when time and resources are limited.
+This workflow provides a streamlined approach for initial fairness evaluation of AI systems. Use this workflow for
+screening assessments, lower-risk applications, or when time and resources are limited.
 
 ## Workflow Overview
 
@@ -23,88 +24,106 @@ The rapid assessment follows this streamlined structure:
 **Objective**: Quickly identify system purpose, key stakeholders, and relevant historical context.
 
 **Activities**:
+
 - Complete the abbreviated "Assessment Plan Light" (focused on system purpose and stakeholders)
 - Conduct targeted literature review of 3-5 key sources on historical discrimination in the domain
 - Map highest-priority historical patterns to application risks
 - Identify key protected attributes requiring evaluation
 
 **Outputs**:
+
 - Mini Historical Context Report (key patterns only)
 - System Risk Profile
 
 **Time Allocation**: 1-2 days
 
 **Documentation**:
-- Complete the *essential sections only* from the [Historical Context Report Template](../../templates/assessment/historical-context.md)
+
+- Complete the *essential sections only* from
+  the [Historical Context Report Template](../../templates/assessment/historical-context.md)
 
 ### 2. Key Fairness Definitions
 
 **Objective**: Select 1-2 primary fairness definitions most relevant to the application context.
 
 **Activities**:
+
 - Apply the streamlined definition selection decision tree
 - Focus on definitions addressing the highest-priority historical patterns
 - Document clear rationale for selected definitions
 - Identify the most critical potential tensions or trade-offs
 
 **Outputs**:
+
 - Primary Fairness Definition with rationale
 - Secondary Definition (if needed)
 
 **Time Allocation**: 0.5-1 day
 
 **Documentation**:
-- Complete the *core sections only* from the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md)
+
+- Complete the *core sections only* from
+  the [Fairness Definition Rationale Template](../../templates/assessment/fairness-definition.md)
 
 ### 3. Critical Bias Analysis
 
 **Objective**: Identify the highest-risk bias sources requiring immediate attention.
 
 **Activities**:
+
 - Conduct abbreviated lifecycle analysis focusing on highest-risk stages
 - Identify 3-5 critical bias sources most likely to impact fairness
 - Perform root cause analysis on these key sources
 - Document direct connections to selected fairness definitions
 
 **Outputs**:
+
 - Critical Bias Source List
 - Abbreviated Risk Assessment
 
 **Time Allocation**: 1-2 days
 
 **Documentation**:
-- Complete the *priority sections only* from the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md)
+
+- Complete the *priority sections only* from
+  the [Bias Source Mapping Template](../../templates/assessment/bias-source-mapping.md)
 
 ### 4. Core Metrics Evaluation
 
 **Objective**: Measure performance against selected fairness definitions using targeted metrics.
 
 **Activities**:
+
 - Implement 2-3 metrics directly aligned with primary fairness definitions
 - Analyze results for key protected attributes
 - Conduct basic significance testing
 - Perform limited intersectional analysis on highest-priority intersections
 
 **Outputs**:
+
 - Core Metrics Results
 - Initial Disparity Assessment
 
 **Time Allocation**: 1-2 days
 
 **Documentation**:
-- Complete the *essential sections only* from the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md)
+
+- Complete the *essential sections only* from
+  the [Metrics Implementation Template](../../templates/assessment/metrics-implementation.md)
 
 ### 5. Findings & Recommendations
 
 **Objective**: Synthesize key findings and provide actionable recommendations.
 
 **Activities**:
+
 - Connect metrics results to identified bias sources
 - Prioritize 3-5 key findings based on risk and impact
 - Develop targeted recommendations for highest-priority issues
 - Document limitations of the rapid assessment
 
 **Outputs**:
+
 - Key Findings Report
 - Prioritized Recommendations
 - Assessment Limitations
@@ -112,6 +131,7 @@ The rapid assessment follows this streamlined structure:
 **Time Allocation**: 1 day
 
 **Documentation**:
+
 - Complete the [Executive Summary Template](../../templates/assessment/executive-summary.md)
 - Complete the [Limitations Acknowledgment Template](../../templates/assessment/limitations.md)
 
@@ -131,16 +151,19 @@ Consider expanding to a comprehensive assessment if:
 Adjust focus based on domain requirements:
 
 **Healthcare**:
+
 - Prioritize patterns of access disparity and unequal treatment
 - Focus on equal opportunity and individual fairness definitions
 - Emphasize data representation and feature relevance bias sources
 
 **Financial Services**:
+
 - Prioritize historical exclusion patterns
 - Focus on demographic parity and equalized odds
 - Emphasize proxy discrimination and representation bias sources
 
 **Content Recommendation**:
+
 - Prioritize representation and visibility patterns
 - Focus on exposure fairness definitions
 - Emphasize feedback loop and presentation bias sources

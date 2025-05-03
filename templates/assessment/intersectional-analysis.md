@@ -20,9 +20,9 @@
 
 ### Selection of Intersections
 
-| Intersection | Justification | Related Historical Patterns |
-|--------------|---------------|---------------------------|
-| [e.g., Gender × Race] | [Reason this intersection was prioritized] | [Patterns from Historical Context] |
+| Intersection             | Justification                              | Related Historical Patterns        |
+|--------------------------|--------------------------------------------|------------------------------------|
+| [e.g., Gender × Race]    | [Reason this intersection was prioritized] | [Patterns from Historical Context] |
 | [e.g., Age × Disability] | [Reason this intersection was prioritized] | [Patterns from Historical Context] |
 
 ### Statistical Approach
@@ -41,17 +41,17 @@
 
 #### Demographic Distribution
 
-| Intersectional Group | Count | Percentage |
-|----------------------|-------|------------|
+| Intersectional Group   | Count    | Percentage   |
+|------------------------|----------|--------------|
 | [e.g., Women of color] | [Number] | [Percentage] |
-| [e.g., White women] | [Number] | [Percentage] |
-| [e.g., Men of color] | [Number] | [Percentage] |
-| [e.g., White men] | [Number] | [Percentage] |
+| [e.g., White women]    | [Number] | [Percentage] |
+| [e.g., Men of color]   | [Number] | [Percentage] |
+| [e.g., White men]      | [Number] | [Percentage] |
 
 #### Metric Results
 
-| Metric | Group | Value | Comparison to Overall | Statistical Significance |
-|--------|-------|-------|----------------------|--------------------------|
+| Metric        | Group   | Value   | Comparison to Overall | Statistical Significance         |
+|---------------|---------|---------|-----------------------|----------------------------------|
 | [Metric name] | [Group] | [Value] | [Relative to overall] | [p-value or confidence interval] |
 
 #### Visual Representation
@@ -90,8 +90,8 @@
 
 [Map how specific bias sources identified in the Bias Source Mapping may create or amplify intersectional disparities]
 
-| Bias Source | Intersections Affected | Mechanism | Evidence |
-|-------------|------------------------|-----------|----------|
+| Bias Source          | Intersections Affected   | Mechanism                               | Evidence              |
+|----------------------|--------------------------|-----------------------------------------|-----------------------|
 | [Source ID and name] | [Affected intersections] | [How it creates intersectional effects] | [Supporting evidence] |
 
 ### Root Cause Analysis
@@ -102,9 +102,9 @@
 
 ### Stakeholder Input
 
-| Stakeholder Group | Representatives | Consultation Method | Key Insights |
-|-------------------|-----------------|---------------------|-------------|
-| [Group name] | [Names or roles] | [Interview, focus group, etc.] | [Summary of input] |
+| Stakeholder Group | Representatives  | Consultation Method            | Key Insights       |
+|-------------------|------------------|--------------------------------|--------------------|
+| [Group name]      | [Names or roles] | [Interview, focus group, etc.] | [Summary of input] |
 
 ### Lived Experience Context
 
@@ -124,9 +124,9 @@
 
 ### Targeted Interventions
 
-| Intersectional Group | Disparity | Recommended Intervention | Rationale |
-|----------------------|-----------|--------------------------|-----------|
-| [Group] | [Disparity] | [Intervention approach] | [Why this approach] |
+| Intersectional Group | Disparity   | Recommended Intervention | Rationale           |
+|----------------------|-------------|--------------------------|---------------------|
+| [Group]              | [Disparity] | [Intervention approach]  | [Why this approach] |
 
 ### Universal Design Improvements
 
@@ -186,8 +186,8 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Intersectional Analysis Lead | | | |
-| Statistical Lead | | | |
-| Fairness Assessment Lead | | | |
+| Role                         | Name | Signature | Date |
+|------------------------------|------|-----------|------|
+| Intersectional Analysis Lead |      |           |      |
+| Statistical Lead             |      |           |      |
+| Fairness Assessment Lead     |      |           |      |

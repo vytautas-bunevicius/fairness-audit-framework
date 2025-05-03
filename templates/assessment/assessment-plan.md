@@ -77,12 +77,12 @@
 
 ### Stakeholder Identification
 
-| Stakeholder Type | Representatives | Input Method | Engagement Stage |
-|------------------|----------------|--------------|------------------|
-| System developers | [Names] | [Interview, Workshop] | [Design, Validation] |
-| Affected groups | [Names or groups] | [Focus group, Survey] | [Requirements, Testing] |
-| Domain experts | [Names] | [Expert review] | [Framework selection, Results review] |
-| Decision-makers | [Names] | [Executive briefing] | [Planning, Results] |
+| Stakeholder Type  | Representatives   | Input Method          | Engagement Stage                      |
+|-------------------|-------------------|-----------------------|---------------------------------------|
+| System developers | [Names]           | [Interview, Workshop] | [Design, Validation]                  |
+| Affected groups   | [Names or groups] | [Focus group, Survey] | [Requirements, Testing]               |
+| Domain experts    | [Names]           | [Expert review]       | [Framework selection, Results review] |
+| Decision-makers   | [Names]           | [Executive briefing]  | [Planning, Results]                   |
 
 ### Engagement Timeline
 
@@ -153,12 +153,12 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Assessment Lead | | | |
-| System Owner | | | |
-| Compliance Officer | | | |
-| Executive Sponsor | | | |
+| Role               | Name | Signature | Date |
+|--------------------|------|-----------|------|
+| Assessment Lead    |      |           |      |
+| System Owner       |      |           |      |
+| Compliance Officer |      |           |      |
+| Executive Sponsor  |      |           |      |
 
 ---
 

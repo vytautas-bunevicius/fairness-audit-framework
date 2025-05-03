@@ -21,25 +21,30 @@
 
 ### Intervention 1: [Name of Intervention]
 
-**Description**: [Detailed description of the proposed change (e.g., retrain model with specific constraints, adjust feature X, modify post-processing rule).]
+**Description
+**: [Detailed description of the proposed change (e.g., retrain model with specific constraints, adjust feature X, modify post-processing rule).]
 
 **Targeted Bias Source(s)**: [Which bias source(s) this intervention addresses]
 
 **Expected Impact**:
+
 - **On Fairness Metrics**: [Quantify expected improvement in specific metrics]
 - **On Performance Metrics**: [Estimate impact on accuracy, latency, etc.]
 - **On Business Metrics**: [Potential impact on business KPIs]
 
 **Implementation Details**:
+
 - **Technical Steps**: [Outline the required technical implementation steps]
 - **Code/Configuration Changes**: [Reference specific code repositories or configuration files]
 - **Resources Required**: [Team members, tools, infrastructure]
 
 **Timeline**:
+
 - **Estimated Duration**: [Time required for implementation]
 - **Target Completion Date**: [Date]
 
 **Risk Assessment**:
+
 - **Potential Negative Consequences**: [Risks associated with this intervention]
 - **Mitigation for Risks**: [How potential risks will be managed]
 
@@ -49,21 +54,21 @@
 
 ### Phases and Milestones
 
-| Phase | Key Activities | Deliverable | Deadline | Owner |
-|-------|----------------|-------------|----------|-------|
-| [Phase 1: Design/Prep] | [Activity list] | [Output] | [Date] | [Name/Team] |
-| [Phase 2: Development] | [Activity list] | [Output] | [Date] | [Name/Team] |
-| [Phase 3: Testing] | [Activity list] | [Output] | [Date] | [Name/Team] |
-| [Phase 4: Deployment] | [Activity list] | [Output] | [Date] | [Name/Team] |
+| Phase                  | Key Activities  | Deliverable | Deadline | Owner       |
+|------------------------|-----------------|-------------|----------|-------------|
+| [Phase 1: Design/Prep] | [Activity list] | [Output]    | [Date]   | [Name/Team] |
+| [Phase 2: Development] | [Activity list] | [Output]    | [Date]   | [Name/Team] |
+| [Phase 3: Testing]     | [Activity list] | [Output]    | [Date]   | [Name/Team] |
+| [Phase 4: Deployment]  | [Activity list] | [Output]    | [Date]   | [Name/Team] |
 
 ### Responsibilities
 
-| Role | Name/Team | Responsibility |
-|------|-----------|----------------|
-| [e.g., Developer] | [Name] | [Implement code changes] |
-| [e.g., QA Tester] | [Name] | [Validate fairness and performance] |
-| [e.g., MLOps Engineer] | [Name] | [Deploy changes, update pipelines] |
-| [e.g., Project Manager] | [Name] | [Oversee timeline and resources] |
+| Role                    | Name/Team | Responsibility                      |
+|-------------------------|-----------|-------------------------------------|
+| [e.g., Developer]       | [Name]    | [Implement code changes]            |
+| [e.g., QA Tester]       | [Name]    | [Validate fairness and performance] |
+| [e.g., MLOps Engineer]  | [Name]    | [Deploy changes, update pipelines]  |
+| [e.g., Project Manager] | [Name]    | [Oversee timeline and resources]    |
 
 ## Validation Strategy
 
@@ -103,10 +108,10 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Plan Owner | | | |
-| Technical Lead | | | |
-| Fairness Assessment Lead | | | |
-| System Owner/Product Manager | | | |
-| Compliance Officer (if applicable) | | | |
+| Role                               | Name | Signature | Date |
+|------------------------------------|------|-----------|------|
+| Plan Owner                         |      |           |      |
+| Technical Lead                     |      |           |      |
+| Fairness Assessment Lead           |      |           |      |
+| System Owner/Product Manager       |      |           |      |
+| Compliance Officer (if applicable) |      |           |      |

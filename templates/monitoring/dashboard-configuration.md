@@ -21,25 +21,25 @@
 
 ### Target Audience
 
-| Audience Group | Key Information Needs | Access Level |
-|----------------|-----------------------|--------------|
-| [e.g., Fairness Team] | [Detailed metric trends, subgroup analysis] | [Full Access] |
-| [e.g., Operations Team] | [Overall system health, critical alerts] | [View Only] |
-| [e.g., Compliance Team] | [Regulatory metrics, threshold breaches] | [View Only] |
-| [e.g., Leadership] | [High-level summary, major trends] | [Summary View] |
+| Audience Group          | Key Information Needs                       | Access Level   |
+|-------------------------|---------------------------------------------|----------------|
+| [e.g., Fairness Team]   | [Detailed metric trends, subgroup analysis] | [Full Access]  |
+| [e.g., Operations Team] | [Overall system health, critical alerts]    | [View Only]    |
+| [e.g., Compliance Team] | [Regulatory metrics, threshold breaches]    | [View Only]    |
+| [e.g., Leadership]      | [High-level summary, major trends]          | [Summary View] |
 
 ## Dashboard Content
 
 ### Key Visualizations
 
-| Visualization Type | Metrics Displayed | Purpose | Target Audience | Update Frequency |
-|--------------------|-------------------|---------|-----------------|-----------------|
-| [e.g., Time Series Chart] | [Equal Opportunity Diff.] | [Track trend over time] | [Fairness Team] | [e.g., Hourly] |
-| [e.g., Bar Chart] | [Demographic Parity Ratio by Group] | [Compare current subgroup performance] | [Fairness, Compliance] | [e.g., Daily] |
-| [e.g., Heatmap] | [Intersectional Disparity Metric] | [Identify high-risk intersections] | [Fairness Team] | [e.g., Weekly] |
-| [e.g., Gauge/KPI] | [Overall Fairness Score (if used)] | [Quick high-level status] | [Leadership] | [e.g., Daily] |
-| [e.g., Scatter Plot] | [Fairness Metric vs. Performance Metric] | [Visualize trade-offs] | [Fairness, Data Science] | [e.g., Daily] |
-| [e.g., Distribution Plot] | [Feature Drift (PSI)] | [Monitor data stability] | [Fairness, MLOps] | [e.g., Hourly] |
+| Visualization Type        | Metrics Displayed                        | Purpose                                | Target Audience          | Update Frequency |
+|---------------------------|------------------------------------------|----------------------------------------|--------------------------|------------------|
+| [e.g., Time Series Chart] | [Equal Opportunity Diff.]                | [Track trend over time]                | [Fairness Team]          | [e.g., Hourly]   |
+| [e.g., Bar Chart]         | [Demographic Parity Ratio by Group]      | [Compare current subgroup performance] | [Fairness, Compliance]   | [e.g., Daily]    |
+| [e.g., Heatmap]           | [Intersectional Disparity Metric]        | [Identify high-risk intersections]     | [Fairness Team]          | [e.g., Weekly]   |
+| [e.g., Gauge/KPI]         | [Overall Fairness Score (if used)]       | [Quick high-level status]              | [Leadership]             | [e.g., Daily]    |
+| [e.g., Scatter Plot]      | [Fairness Metric vs. Performance Metric] | [Visualize trade-offs]                 | [Fairness, Data Science] | [e.g., Daily]    |
+| [e.g., Distribution Plot] | [Feature Drift (PSI)]                    | [Monitor data stability]               | [Fairness, MLOps]        | [e.g., Hourly]   |
 
 ### Metrics Displayed
 
@@ -82,8 +82,8 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Monitoring Lead | | | |
-| Dashboard Developer/Owner | | | |
-| Lead Representative(s) of Target Audience | | | |
+| Role                                      | Name | Signature | Date |
+|-------------------------------------------|------|-----------|------|
+| Monitoring Lead                           |      |           |      |
+| Dashboard Developer/Owner                 |      |           |      |
+| Lead Representative(s) of Target Audience |      |           |      |

@@ -20,11 +20,11 @@
 
 ### Sources and Evidence
 
-| Source Type | Count | Examples |
-|-------------|-------|----------|
-| Academic Research | [Number] | [Key examples] |
-| Legal Cases | [Number] | [Key examples] |
-| Policy Documents | [Number] | [Key examples] |
+| Source Type         | Count    | Examples       |
+|---------------------|----------|----------------|
+| Academic Research   | [Number] | [Key examples] |
+| Legal Cases         | [Number] | [Key examples] |
+| Policy Documents    | [Number] | [Key examples] |
 | Statistical Reports | [Number] | [Key examples] |
 | Domain Expert Input | [Number] | [Key examples] |
 
@@ -39,32 +39,38 @@
 **Description**: [Detailed description of the historical pattern of discrimination or bias]
 
 **Evidence Summary**:
+
 - **Academic Research**: [Key findings from academic literature]
 - **Legal Precedent**: [Relevant case law or regulatory actions]
 - **Statistical Evidence**: [Key statistics demonstrating the pattern]
 - **Expert Validation**: [Input from subject matter experts]
 
 **Temporal Aspects**:
+
 - **Historical Timeframe**: [When this pattern was most prevalent]
 - **Contemporary Status**: [Current state of this pattern - resolved, ongoing, transformed]
 - **Evolution**: [How the pattern has changed over time]
 
 **Affected Groups**:
+
 - **Primary Groups**: [Groups most directly affected]
 - **Intersectional Considerations**: [How the pattern affects individuals at intersections of multiple identities]
 - **Severity Variations**: [Variations in impact across different subgroups]
 
 **Documented Impacts**:
+
 - **Direct Consequences**: [Immediate effects of this discrimination pattern]
 - **Secondary Effects**: [Downstream or indirect impacts]
 - **Systemic Implications**: [How this pattern relates to broader systemic issues]
 
 **Relevance Assessment**:
+
 - **Relevance Score**: [Numerical score, e.g., 0.85 on a scale of 0-1]
 - **Rationale**: [Explanation for why this pattern is relevant to the current AI system]
 - **Confidence Level**: [High/Medium/Low with explanation]
 
 **Application Risks**:
+
 - **Data Representation Risks**: [How this pattern might manifest in training data]
 - **Feature Selection Risks**: [Potential impacts on feature engineering]
 - **Modeling Risks**: [Possible effects on model behavior]
@@ -72,6 +78,7 @@
 - **Feedback Loop Risks**: [Potential for pattern reinforcement through system use]
 
 **Remediation History**:
+
 - **Past Interventions**: [Approaches used to address this pattern historically]
 - **Effectiveness**: [Evidence about intervention effectiveness]
 - **Lessons Learned**: [Key takeaways from past remediation efforts]
@@ -96,21 +103,21 @@
 
 ### Data Risks
 
-| Risk ID | Description | Related Historical Patterns | Severity | Likelihood |
-|---------|-------------|----------------------------|----------|------------|
-| DR1 | [Description] | [Pattern IDs] | [High/Medium/Low] | [High/Medium/Low] |
+| Risk ID | Description   | Related Historical Patterns | Severity          | Likelihood        |
+|---------|---------------|-----------------------------|-------------------|-------------------|
+| DR1     | [Description] | [Pattern IDs]               | [High/Medium/Low] | [High/Medium/Low] |
 
 ### Algorithm and Model Risks
 
-| Risk ID | Description | Related Historical Patterns | Severity | Likelihood |
-|---------|-------------|----------------------------|----------|------------|
-| AR1 | [Description] | [Pattern IDs] | [High/Medium/Low] | [High/Medium/Low] |
+| Risk ID | Description   | Related Historical Patterns | Severity          | Likelihood        |
+|---------|---------------|-----------------------------|-------------------|-------------------|
+| AR1     | [Description] | [Pattern IDs]               | [High/Medium/Low] | [High/Medium/Low] |
 
 ### Deployment and Use Risks
 
-| Risk ID | Description | Related Historical Patterns | Severity | Likelihood |
-|---------|-------------|----------------------------|----------|------------|
-| UR1 | [Description] | [Pattern IDs] | [High/Medium/Low] | [High/Medium/Low] |
+| Risk ID | Description   | Related Historical Patterns | Severity          | Likelihood        |
+|---------|---------------|-----------------------------|-------------------|-------------------|
+| UR1     | [Description] | [Pattern IDs]               | [High/Medium/Low] | [High/Medium/Low] |
 
 ## Risk Prioritization
 
@@ -126,9 +133,9 @@
 
 ### Consulted Stakeholders
 
-| Stakeholder Group | Representatives | Consultation Method | Key Insights |
-|-------------------|-----------------|---------------------|-------------|
-| [Group name] | [Names or roles] | [Interview, focus group, etc.] | [Summary of input] |
+| Stakeholder Group | Representatives  | Consultation Method            | Key Insights       |
+|-------------------|------------------|--------------------------------|--------------------|
+| [Group name]      | [Names or roles] | [Interview, focus group, etc.] | [Summary of input] |
 
 ### Divergent Perspectives
 
@@ -198,8 +205,8 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Historical Context Lead | | | |
-| Domain Expert | | | |
-| Fairness Assessment Lead | | | |
+| Role                     | Name | Signature | Date |
+|--------------------------|------|-----------|------|
+| Historical Context Lead  |      |           |      |
+| Domain Expert            |      |           |      |
+| Fairness Assessment Lead |      |           |      |

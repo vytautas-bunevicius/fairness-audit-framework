@@ -22,13 +22,13 @@
 
 ### Key Stakeholder Groups
 
-| Stakeholder Category | Specific Groups | Connection to System | Engagement Priority |
-|----------------------|-----------------|----------------------|---------------------|
-| Directly Affected | [Groups] | [How they interact with system] | [High/Medium/Low] |
-| System Operators | [Groups] | [How they interact with system] | [High/Medium/Low] |
-| Domain Experts | [Groups] | [How they interact with system] | [High/Medium/Low] |
-| Regulatory/Oversight | [Groups] | [How they interact with system] | [High/Medium/Low] |
-| Advocacy Organizations | [Groups] | [How they interact with system] | [High/Medium/Low] |
+| Stakeholder Category   | Specific Groups | Connection to System            | Engagement Priority |
+|------------------------|-----------------|---------------------------------|---------------------|
+| Directly Affected      | [Groups]        | [How they interact with system] | [High/Medium/Low]   |
+| System Operators       | [Groups]        | [How they interact with system] | [High/Medium/Low]   |
+| Domain Experts         | [Groups]        | [How they interact with system] | [High/Medium/Low]   |
+| Regulatory/Oversight   | [Groups]        | [How they interact with system] | [High/Medium/Low]   |
+| Advocacy Organizations | [Groups]        | [How they interact with system] | [High/Medium/Low]   |
 
 ### Representation Analysis
 
@@ -38,9 +38,9 @@
 
 ### Activity Summary
 
-| Activity | Date | Stakeholder Groups | Format | Participants | Objective |
-|----------|------|-------------------|---------|--------------|-----------|
-| [Activity name] | [Date] | [Groups involved] | [Workshop, interview, etc.] | [Number and roles] | [Purpose] |
+| Activity        | Date   | Stakeholder Groups | Format                      | Participants       | Objective |
+|-----------------|--------|--------------------|-----------------------------|--------------------|-----------|
+| [Activity name] | [Date] | [Groups involved]  | [Workshop, interview, etc.] | [Number and roles] | [Purpose] |
 
 ### Detailed Activities
 
@@ -49,21 +49,26 @@
 **Format**: [Description of the engagement format]
 
 **Participants**:
+
 - [Number and description of participants]
 - [Relevant demographic or expertise information]
 - [Recruitment approach]
 
 **Key Questions**:
+
 - [Primary questions or topics addressed]
 
 **Materials Used**:
+
 - [Description of any materials shared with stakeholders]
 
 **Facilitation Approach**:
+
 - [How the engagement was facilitated]
 - [Steps taken to ensure inclusive participation]
 
 **Documentation Method**:
+
 - [How input was captured and documented]
 
 [Repeat for each engagement activity]
@@ -90,8 +95,8 @@
 
 ### Divergent Perspectives
 
-| Topic | Perspective 1 | Perspective 2 | Reconciliation Approach |
-|-------|---------------|---------------|-------------------------|
+| Topic                   | Perspective 1 | Perspective 2 | Reconciliation Approach          |
+|-------------------------|---------------|---------------|----------------------------------|
 | [Topic with divergence] | [Viewpoint 1] | [Viewpoint 2] | [How differences were addressed] |
 
 ### Consensus Areas
@@ -102,12 +107,12 @@
 
 ### Input Integration by Component
 
-| Assessment Component | Stakeholder Input | How Input Was Incorporated | Impact on Outcomes |
-|----------------------|-------------------|----------------------------|-------------------|
-| Historical Context | [Key input] | [Integration method] | [Resulting changes] |
-| Fairness Definitions | [Key input] | [Integration method] | [Resulting changes] |
-| Bias Sources | [Key input] | [Integration method] | [Resulting changes] |
-| Metrics | [Key input] | [Integration method] | [Resulting changes] |
+| Assessment Component | Stakeholder Input | How Input Was Incorporated | Impact on Outcomes  |
+|----------------------|-------------------|----------------------------|---------------------|
+| Historical Context   | [Key input]       | [Integration method]       | [Resulting changes] |
+| Fairness Definitions | [Key input]       | [Integration method]       | [Resulting changes] |
+| Bias Sources         | [Key input]       | [Integration method]       | [Resulting changes] |
+| Metrics              | [Key input]       | [Integration method]       | [Resulting changes] |
 
 ### Decision Documentation
 
@@ -205,8 +210,8 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Stakeholder Engagement Lead | | | |
-| Community Liaison | | | |
-| Fairness Assessment Lead | | | |
+| Role                        | Name | Signature | Date |
+|-----------------------------|------|-----------|------|
+| Stakeholder Engagement Lead |      |           |      |
+| Community Liaison           |      |           |      |
+| Fairness Assessment Lead    |      |           |      |

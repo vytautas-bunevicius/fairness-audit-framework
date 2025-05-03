@@ -10,7 +10,8 @@
 
 ## Purpose of This Document
 
-This document explicitly acknowledges the limitations, constraints, and areas of uncertainty in the fairness assessment. Its purpose is to:
+This document explicitly acknowledges the limitations, constraints, and areas of uncertainty in the fairness assessment.
+Its purpose is to:
 
 1. Promote transparency about the assessment's boundaries
 2. Provide appropriate context for interpreting findings
@@ -21,12 +22,12 @@ This document explicitly acknowledges the limitations, constraints, and areas of
 
 ### Included vs. Excluded Components
 
-| Component | Inclusion Status | Rationale for Exclusion (if applicable) |
-|-----------|------------------|----------------------------------------|
-| Historical Context Assessment | [Full/Partial/Excluded] | [Explanation if excluded or partial] |
-| Fairness Definition Selection | [Full/Partial/Excluded] | [Explanation if excluded or partial] |
-| Bias Source Identification | [Full/Partial/Excluded] | [Explanation if excluded or partial] |
-| Comprehensive Metrics Implementation | [Full/Partial/Excluded] | [Explanation if excluded or partial] |
+| Component                            | Inclusion Status        | Rationale for Exclusion (if applicable) |
+|--------------------------------------|-------------------------|-----------------------------------------|
+| Historical Context Assessment        | [Full/Partial/Excluded] | [Explanation if excluded or partial]    |
+| Fairness Definition Selection        | [Full/Partial/Excluded] | [Explanation if excluded or partial]    |
+| Bias Source Identification           | [Full/Partial/Excluded] | [Explanation if excluded or partial]    |
+| Comprehensive Metrics Implementation | [Full/Partial/Excluded] | [Explanation if excluded or partial]    |
 
 ### Domain Coverage Limitations
 
@@ -66,8 +67,8 @@ This document explicitly acknowledges the limitations, constraints, and areas of
 
 ### Metric Limitation Summary
 
-| Metric | Key Limitations | Implication for Findings |
-|--------|----------------|--------------------------|
+| Metric        | Key Limitations       | Implication for Findings                |
+|---------------|-----------------------|-----------------------------------------|
 | [Metric name] | [Primary limitations] | [How limitations affect interpretation] |
 
 ### Statistical Power Considerations
@@ -124,11 +125,11 @@ This document explicitly acknowledges the limitations, constraints, and areas of
 
 ### Confidence Matrix
 
-| Assessment Component | Confidence Level | Key Uncertainties |
-|----------------------|------------------|-------------------|
-| Historical Context | [High/Medium/Low] | [Primary sources of uncertainty] |
-| Fairness Definitions | [High/Medium/Low] | [Primary sources of uncertainty] |
-| Bias Sources | [High/Medium/Low] | [Primary sources of uncertainty] |
+| Assessment Component   | Confidence Level  | Key Uncertainties                |
+|------------------------|-------------------|----------------------------------|
+| Historical Context     | [High/Medium/Low] | [Primary sources of uncertainty] |
+| Fairness Definitions   | [High/Medium/Low] | [Primary sources of uncertainty] |
+| Bias Sources           | [High/Medium/Low] | [Primary sources of uncertainty] |
 | Metrics Implementation | [High/Medium/Low] | [Primary sources of uncertainty] |
 
 ### Alternative Interpretations
@@ -213,8 +214,8 @@ This document explicitly acknowledges the limitations, constraints, and areas of
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Assessment Lead | | | |
-| Quality Assurance | | | |
-| External Reviewer (if applicable) | | | |
+| Role                              | Name | Signature | Date |
+|-----------------------------------|------|-----------|------|
+| Assessment Lead                   |      |           |      |
+| Quality Assurance                 |      |           |      |
+| External Reviewer (if applicable) |      |           |      |

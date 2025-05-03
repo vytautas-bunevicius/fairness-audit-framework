@@ -13,9 +13,9 @@
 
 ### Triggering Alert(s)
 
-| Alert ID | Timestamp | Metric | Threshold Breached | Observed Value | Baseline Value | Alert Level |
-|----------|-----------|--------|--------------------|----------------|----------------|-------------|
-| [ID] | [Timestamp] | [Metric Name] | [Threshold value] | [Value causing alert] | [Baseline] | [Warning/Critical] |
+| Alert ID | Timestamp   | Metric        | Threshold Breached | Observed Value        | Baseline Value | Alert Level        |
+|----------|-------------|---------------|--------------------|-----------------------|----------------|--------------------|
+| [ID]     | [Timestamp] | [Metric Name] | [Threshold value]  | [Value causing alert] | [Baseline]     | [Warning/Critical] |
 
 ### Initial Observations
 
@@ -129,9 +129,9 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Lead Investigator | | | |
-| Monitoring Lead | | | |
-| Fairness Assessment Lead | | | |
-| System Owner/Product Manager | | | |
+| Role                         | Name | Signature | Date |
+|------------------------------|------|-----------|------|
+| Lead Investigator            |      |           |      |
+| Monitoring Lead              |      |           |      |
+| Fairness Assessment Lead     |      |           |      |
+| System Owner/Product Manager |      |           |      |

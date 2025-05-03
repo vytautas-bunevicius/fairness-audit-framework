@@ -13,6 +13,7 @@
 [Provide a high-level description of the data collection and processing pipeline designed for continuous fairness monitoring.]
 
 [Include a diagram if helpful, e.g., using Mermaid or linking to an external diagram.]
+
 ```mermaid
 graph LR
     A[Production System Logs] --> B(Data Extraction/Sampling);
@@ -99,9 +100,9 @@ graph LR
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| MLOps Lead | | | |
-| Data Engineering Lead | | | |
-| Monitoring Lead | | | |
-| Security Officer | | | |
+| Role                  | Name | Signature | Date |
+|-----------------------|------|-----------|------|
+| MLOps Lead            |      |           |      |
+| Data Engineering Lead |      |           |      |
+| Monitoring Lead       |      |           |      |
+| Security Officer      |      |           |      |

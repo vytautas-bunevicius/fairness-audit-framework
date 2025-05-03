@@ -23,6 +23,7 @@
 **Assessment Type**: [Rapid, Comprehensive, or Regulatory]
 
 **Components Assessed**:
+
 - [✓] Historical Context Assessment
 - [✓] Fairness Definition Selection
 - [✓] Bias Source Identification
@@ -40,8 +41,8 @@
 
 ### Critical Fairness Issues
 
-| Issue | Severity | Affected Groups | Recommended Action |
-|-------|----------|-----------------|-------------------|
+| Issue               | Severity          | Affected Groups        | Recommended Action     |
+|---------------------|-------------------|------------------------|------------------------|
 | [Brief description] | [High/Medium/Low] | [Groups most affected] | [Brief recommendation] |
 
 ### Fairness Strengths
@@ -78,10 +79,10 @@
 
 **Key Metrics Implemented**: [List of primary metrics used]
 
-**Significant Disparities**: 
+**Significant Disparities**:
 
-| Metric | Groups | Value | Interpretation |
-|--------|--------|-------|----------------|
+| Metric        | Groups            | Value   | Interpretation         |
+|---------------|-------------------|---------|------------------------|
 | [Metric name] | [Compared groups] | [Value] | [Brief interpretation] |
 
 **Intersectional Findings**: [Key findings from intersectional analysis]
@@ -109,12 +110,15 @@
 ## Implementation Roadmap
 
 **Immediate Actions** (0-3 months):
+
 - [Action items with owners]
 
 **Short-term Improvements** (3-6 months):
+
 - [Action items with owners]
 
 **Long-term Strategy** (6+ months):
+
 - [Action items with owners]
 
 ## Limitations & Constraints
@@ -142,9 +146,11 @@
 ## Acknowledgments
 
 **Assessment Team**:
+
 - [Names and roles]
 
 **Stakeholder Participants**:
+
 - [Names and roles/groups]
 
 ## Next Steps
@@ -158,9 +164,9 @@
 
 ## Executive Approvals
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| System Owner | | | |
-| Fairness Assessment Lead | | | |
-| Legal/Compliance | | | |
-| Executive Sponsor | | | |
+| Role                     | Name | Signature | Date |
+|--------------------------|------|-----------|------|
+| System Owner             |      |           |      |
+| Fairness Assessment Lead |      |           |      |
+| Legal/Compliance         |      |           |      |
+| Executive Sponsor        |      |           |      |

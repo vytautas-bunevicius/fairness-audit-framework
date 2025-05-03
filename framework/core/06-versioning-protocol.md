@@ -1,6 +1,8 @@
 # Versioning Protocol
 
-This document outlines the standardized approach for versioning fairness assessments, assessment components, and the framework itself. Effective versioning is essential for tracking changes over time, understanding the evolution of fairness assessments, and maintaining clear documentation of assessment history.
+This document outlines the standardized approach for versioning fairness assessments, assessment components, and the
+framework itself. Effective versioning is essential for tracking changes over time, understanding the evolution of
+fairness assessments, and maintaining clear documentation of assessment history.
 
 ## Principles of Effective Versioning
 
@@ -31,13 +33,13 @@ MAJOR.MINOR.PATCH
 
 Each major component of the framework is versioned independently:
 
-| Component | Current Version | Last Updated | Change Frequency |
-|-----------|----------------|--------------|------------------|
-| Historical Context Assessment | 1.2.0 | 2025-02-15 | Low |
-| Fairness Definition Selection | 1.3.1 | 2025-03-10 | Medium |
-| Bias Source Identification | 1.1.0 | 2025-01-20 | Low |
-| Comprehensive Metrics | 1.4.2 | 2025-03-25 | High |
-| Integration Methodology | 1.2.1 | 2025-03-01 | Medium |
+| Component                     | Current Version | Last Updated | Change Frequency |
+|-------------------------------|-----------------|--------------|------------------|
+| Historical Context Assessment | 1.2.0           | 2025-02-15   | Low              |
+| Fairness Definition Selection | 1.3.1           | 2025-03-10   | Medium           |
+| Bias Source Identification    | 1.1.0           | 2025-01-20   | Low              |
+| Comprehensive Metrics         | 1.4.2           | 2025-03-25   | High             |
+| Integration Methodology       | 1.2.1           | 2025-03-01   | Medium           |
 
 ### Version History Documentation
 
@@ -47,16 +49,19 @@ For each component, maintain a version history that includes:
 ## Version History
 
 ### v1.2.0 (2025-02-15)
+
 - Added support for intersectional historical pattern analysis
 - Improved evidence documentation templates
 - Fixed inconsistency in pattern relevance scoring guidance
 
 ### v1.1.0 (2024-11-10)
+
 - Added structured methodology for evaluating pattern relevance
 - Expanded historical pattern catalog with 15 new patterns
 - Improved documentation on evidence standards
 
 ### v1.0.0 (2024-08-01)
+
 - Initial release of Historical Context Assessment component
 ```
 
@@ -124,22 +129,25 @@ Example:
 ## Version Change Log
 
 ### Version 1.2 (2025-06-15)
+
 - **Author**: Jane Smith
 - **Change Type**: Update
 - **Components Modified**: Bias Source Identification, Metrics Implementation
-- **Change Summary**: Added analysis of three additional bias sources and implemented two new metrics to measure their impact
+- **Change Summary**: Added analysis of three additional bias sources and implemented two new metrics to measure their
+  impact
 - **Rationale**: New research identified previously unknown bias mechanisms relevant to the system
-- **Impact Assessment**: New bias sources have medium impact on overall findings, increasing estimated disparate impact by approximately 5%
+- **Impact Assessment**: New bias sources have medium impact on overall findings, increasing estimated disparate impact
+  by approximately 5%
 ```
 
 ### Change Impact Matrix
 
 For significant changes (new major versions), create a change impact matrix:
 
-| Component | Change Description | Impact on Other Components | Stakeholder Communication Needed |
-|-----------|--------------------|-----------------------------|--------------------------------|
-| Historical Context | Added redlining pattern analysis | Requires update to Fairness Definition Selection | Yes - notify policy team |
-| Metrics | Recalibrated demographic parity measure | Results changed by 3% but conclusions unchanged | No - minor technical change |
+| Component          | Change Description                      | Impact on Other Components                       | Stakeholder Communication Needed |
+|--------------------|-----------------------------------------|--------------------------------------------------|----------------------------------|
+| Historical Context | Added redlining pattern analysis        | Requires update to Fairness Definition Selection | Yes - notify policy team         |
+| Metrics            | Recalibrated demographic parity measure | Results changed by 3% but conclusions unchanged  | No - minor technical change      |
 
 ## Triggering Version Updates
 
@@ -191,11 +199,13 @@ Each assessment includes a `VERSION.md` file with:
 # Version Information
 
 ## Current Version
+
 - Version Number: 1.2
 - Release Date: 2025-06-15
 - Lead Assessor: Jane Smith
 
 ## Component Versions
+
 | Component | Version |
 |-----------|---------|
 | Historical Context Assessment | 1.2.0 |
@@ -205,6 +215,7 @@ Each assessment includes a `VERSION.md` file with:
 | Integration Methodology | 1.2.1 |
 
 ## Version History
+
 - v1.2: 2025-06-15 - Added new bias sources and metrics
 - v1.1: 2025-05-10 - Updated historical context with new research
 - v1.0: 2025-04-20 - Initial assessment
@@ -220,6 +231,7 @@ For systems assessed multiple times, include cross-version analysis:
 ## Longitudinal Analysis
 
 ### Fairness Metric Trends
+
 | Metric | v1.0 | v1.1 | v1.2 | Trend |
 |--------|------|------|------|-------|
 | Demographic Parity | 0.82 | 0.85 | 0.88 | Improving |
@@ -227,6 +239,7 @@ For systems assessed multiple times, include cross-version analysis:
 | Predictive Parity | 0.91 | 0.92 | 0.91 | Stable |
 
 ### Key Improvements
+
 - Bias source BS003 (training data imbalance) shows 35% reduction since initial assessment
 - Intersectional disparities decreased across 4/5 measured dimensions
 - Documentation completeness increased from 82% to 97%
@@ -266,8 +279,10 @@ Fairness Assessment Team
 
 ## References
 
-- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://standards.ieee.org/ieee/7003/10789/), Documentation Section
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework): Documentation and Versioning
+- [IEEE Standard 7003-2023 for Algorithmic Bias Considerations](https://standards.ieee.org/ieee/7003/10789/),
+  Documentation Section
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework): Documentation and
+  Versioning
 - [ISO/IEC 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence](https://www.iso.org/standard/77608.html)
 - [Software Engineering Institute Version Control Best Practices](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=435375)
 - [Global Financial Innovation Network (GFIN) Model Documentation Standards](https://www.thegfin.com/publications)

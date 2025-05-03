@@ -24,30 +24,30 @@
 
 ### Monitoring Frequency
 
-| Metric Category | Monitoring Interval | Rationale |
-|-----------------|---------------------|-----------|
+| Metric Category               | Monitoring Interval   | Rationale                     |
+|-------------------------------|-----------------------|-------------------------------|
 | [e.g., Core Fairness Metrics] | [e.g., Daily, Weekly] | [Justification for frequency] |
-| [e.g., Data Drift Metrics] | [e.g., Hourly, Daily] | [Justification for frequency] |
-| [e.g., Model Performance] | [e.g., Daily] | [Justification for frequency] |
+| [e.g., Data Drift Metrics]    | [e.g., Hourly, Daily] | [Justification for frequency] |
+| [e.g., Model Performance]     | [e.g., Daily]         | [Justification for frequency] |
 
 ### Monitoring Tools
 
-| Tool Name | Purpose | Configuration Details |
-|-----------|---------|-----------------------|
-| [e.g., Prometheus] | [Metrics Collection] | [Relevant configuration settings] |
-| [e.g., Grafana] | [Dashboarding] | [Dashboard setup details] |
-| [e.g., Custom Python Script] | [Fairness Metric Calculation] | [Script location, version] |
-| [e.g., MLOps Platform Feature] | [Drift Detection] | [Specific feature used] |
+| Tool Name                      | Purpose                       | Configuration Details             |
+|--------------------------------|-------------------------------|-----------------------------------|
+| [e.g., Prometheus]             | [Metrics Collection]          | [Relevant configuration settings] |
+| [e.g., Grafana]                | [Dashboarding]                | [Dashboard setup details]         |
+| [e.g., Custom Python Script]   | [Fairness Metric Calculation] | [Script location, version]        |
+| [e.g., MLOps Platform Feature] | [Drift Detection]             | [Specific feature used]           |
 
 ### Responsibility Matrix
 
-| Task | Primary Owner | Secondary Owner | Escalation Point |
-|------|----------------|-----------------|------------------|
-| Metric Calculation | [Role/Team] | [Role/Team] | [Role/Team] |
-| Dashboard Review | [Role/Team] | [Role/Team] | [Role/Team] |
-| Alert Triage | [Role/Team] | [Role/Team] | [Role/Team] |
-| Drift Investigation | [Role/Team] | [Role/Team] | [Role/Team] |
-| Tool Maintenance | [Role/Team] | [Role/Team] | [Role/Team] |
+| Task                | Primary Owner | Secondary Owner | Escalation Point |
+|---------------------|---------------|-----------------|------------------|
+| Metric Calculation  | [Role/Team]   | [Role/Team]     | [Role/Team]      |
+| Dashboard Review    | [Role/Team]   | [Role/Team]     | [Role/Team]      |
+| Alert Triage        | [Role/Team]   | [Role/Team]     | [Role/Team]      |
+| Drift Investigation | [Role/Team]   | [Role/Team]     | [Role/Team]      |
+| Tool Maintenance    | [Role/Team]   | [Role/Team]     | [Role/Team]      |
 
 ### Escalation Paths
 
@@ -77,9 +77,9 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Monitoring Lead | | | |
-| MLOps Lead | | | |
-| Fairness Assessment Lead | | | |
-| Compliance Officer | | | |
+| Role                     | Name | Signature | Date |
+|--------------------------|------|-----------|------|
+| Monitoring Lead          |      |           |      |
+| MLOps Lead               |      |           |      |
+| Fairness Assessment Lead |      |           |      |
+| Compliance Officer       |      |           |      |

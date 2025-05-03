@@ -1,10 +1,21 @@
 # Integration Methodology
 
-This document outlines how the four components of the Fairness Audit Framework connect into a cohesive assessment system.
+This document outlines how the four components of the Fairness Audit Framework connect into a cohesive assessment
+system.
+
+## Framework Core Documentation
+
+- **[01-overview.md](./01-overview.md)**: Overview and Navigation
+- **[02-component-interfaces.md](./02-component-interfaces.md)**: This document - Integration Methodology (you are here)
+- **[03-evaluation-criteria.md](./03-evaluation-criteria.md)**: Criteria for evaluating framework effectiveness
+- **[04-implementation-guide.md](./04-implementation-guide.md)**: Practical implementation steps
+- **[05-integration-concepts.md](./05-integration-concepts.md)**: Advanced integration concepts
+- **[06-versioning-protocol.md](./06-versioning-protocol.md)**: Framework versioning and updates
 
 ## Component Integration Architecture
 
-The Fairness Audit Framework integrates four complementary components through standardized interfaces and data exchange formats:
+The Fairness Audit Framework integrates four complementary components through standardized interfaces and data exchange
+formats:
 
 <div align="center">
 <img src="/resources/diagrams/ai-fairness-pipeline.png" alt="AI Fairness Pipeline" width="600" style="max-height: 300px; object-fit: contain;">
@@ -15,20 +26,20 @@ The Fairness Audit Framework integrates four complementary components through st
 Each component produces outputs that feed directly into subsequent components:
 
 1. **Historical Context Assessment Tool**
-   - **Output**: Historical pattern registry with relevance scores
-   - **Feeds into**: Fairness Definition Selection to prioritize definitions addressing historical patterns
+    - **Output**: Historical pattern registry with relevance scores
+    - **Feeds into**: Fairness Definition Selection to prioritize definitions addressing historical patterns
 
 2. **Fairness Definition Selection Framework**
-   - **Output**: Selected fairness definitions with justification
-   - **Feeds into**: Bias Source Identification to prioritize sources relevant to selected definitions
+    - **Output**: Selected fairness definitions with justification
+    - **Feeds into**: Bias Source Identification to prioritize sources relevant to selected definitions
 
 3. **Bias Source Identification Methodology**
-   - **Output**: Bias source catalog with risk assessment
-   - **Feeds into**: Metrics Framework to select appropriate measurement approaches
+    - **Output**: Bias source catalog with risk assessment
+    - **Feeds into**: Metrics Framework to select appropriate measurement approaches
 
 4. **Comprehensive Metrics Framework**
-   - **Output**: Implemented metrics with results and interpretation
-   - **Feeds back into**: Iterative refinement of other components
+    - **Output**: Implemented metrics with results and interpretation
+    - **Feeds back into**: Iterative refinement of other components
 
 ## Standardized Data Exchange Formats
 
@@ -47,8 +58,16 @@ Each component produces outputs that feed directly into subsequent components:
         "Label bias in training data",
         "Representation disparities"
       ],
-      "supporting_evidence": ["Research study references", "Historical data", "Legal precedents"],
-      "affected_groups": ["Women", "Racial minorities", "Religious groups"]
+      "supporting_evidence": [
+        "Research study references",
+        "Historical data",
+        "Legal precedents"
+      ],
+      "affected_groups": [
+        "Women",
+        "Racial minorities",
+        "Religious groups"
+      ]
     }
   ]
 }
@@ -64,12 +83,24 @@ Each component produces outputs that feed directly into subsequent components:
       "name": "Equal opportunity",
       "formal_description": "Equal true positive rates across protected groups",
       "selection_rationale": "Addresses historical pattern HP001",
-      "trade_offs": ["May reduce overall accuracy", "Tension with demographic parity"],
-      "implementation_requirements": ["Protected attribute access", "Ground truth labels"],
-      "metrics": ["Equal opportunity difference", "Recall parity"]
+      "trade_offs": [
+        "May reduce overall accuracy",
+        "Tension with demographic parity"
+      ],
+      "implementation_requirements": [
+        "Protected attribute access",
+        "Ground truth labels"
+      ],
+      "metrics": [
+        "Equal opportunity difference",
+        "Recall parity"
+      ]
     }
   ],
-  "considered_alternatives": ["Demographic parity", "Predictive parity"],
+  "considered_alternatives": [
+    "Demographic parity",
+    "Predictive parity"
+  ],
   "prioritization_rationale": "Focus on equal opportunity given historical context of employment discrimination"
 }
 ```
@@ -89,8 +120,14 @@ Each component produces outputs that feed directly into subsequent components:
         "impact": "Severe",
         "priority": "Critical"
       },
-      "connected_definitions": ["FD003", "FD007"],
-      "mitigation_strategies": ["Synthetic data generation", "Reweighting techniques"]
+      "connected_definitions": [
+        "FD003",
+        "FD007"
+      ],
+      "mitigation_strategies": [
+        "Synthetic data generation",
+        "Reweighting techniques"
+      ]
     }
   ]
 }
@@ -108,7 +145,10 @@ Each component produces outputs that feed directly into subsequent components:
       "implementation_details": "95% bootstrap confidence intervals",
       "results": {
         "value": 0.15,
-        "confidence_interval": [0.11, 0.19],
+        "confidence_interval": [
+          0.11,
+          0.19
+        ],
         "interpretation": "15% disparity in selection rates between groups",
         "threshold_assessment": "Exceeds acceptable threshold"
       }

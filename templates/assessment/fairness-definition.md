@@ -12,10 +12,10 @@
 
 ### Selected Definitions
 
-| Definition ID | Name | Formal Description | Priority |
-|--------------|------|-------------------|----------|
-| [FD001] | [e.g., Equal Opportunity] | [Equal true positive rates across protected groups] | [Primary/Secondary] |
-| [FD002] | [e.g., Demographic Parity] | [Equal selection rates across protected groups] | [Primary/Secondary] |
+| Definition ID | Name                       | Formal Description                                  | Priority            |
+|---------------|----------------------------|-----------------------------------------------------|---------------------|
+| [FD001]       | [e.g., Equal Opportunity]  | [Equal true positive rates across protected groups] | [Primary/Secondary] |
+| [FD002]       | [e.g., Demographic Parity] | [Equal selection rates across protected groups]     | [Primary/Secondary] |
 
 ### Selection Process Summary
 
@@ -35,9 +35,9 @@
 
 #### Connection to Historical Patterns
 
-| Historical Pattern ID | Pattern Description | Connection |
-|----------------------|---------------------|------------|
-| [HP001] | [Brief description] | [How this definition addresses or relates to the pattern] |
+| Historical Pattern ID | Pattern Description | Connection                                                |
+|-----------------------|---------------------|-----------------------------------------------------------|
+| [HP001]               | [Brief description] | [How this definition addresses or relates to the pattern] |
 
 #### Implementation Requirements
 
@@ -47,10 +47,10 @@
 
 #### Applicable Metrics
 
-| Metric | Description | Threshold |
-|--------|-------------|-----------|
+| Metric                               | Description         | Threshold                             |
+|--------------------------------------|---------------------|---------------------------------------|
 | [e.g., Equal opportunity difference] | [Brief description] | [Acceptable threshold, if applicable] |
-| [e.g., True positive rate ratio] | [Brief description] | [Acceptable threshold, if applicable] |
+| [e.g., True positive rate ratio]     | [Brief description] | [Acceptable threshold, if applicable] |
 
 ### Secondary Definition: [Name]
 
@@ -66,23 +66,23 @@
 
 ### Competing Fairness Definitions
 
-| Definition Pair | Tension | Prioritization Decision |
-|-----------------|---------|-------------------------|
+| Definition Pair    | Tension                                          | Prioritization Decision         |
+|--------------------|--------------------------------------------------|---------------------------------|
 | [FD001] vs [FD002] | [Describe the mathematical or practical tension] | [Which was prioritized and why] |
 
 ### Stakeholder Impact Analysis
 
-| Stakeholder Group | Benefits | Potential Harms | Net Assessment |
-|-------------------|----------|-----------------|----------------|
-| [e.g., Job applicants] | [Benefits of selected definitions] | [Potential downsides] | [Overall impact] |
+| Stakeholder Group       | Benefits                           | Potential Harms       | Net Assessment   |
+|-------------------------|------------------------------------|-----------------------|------------------|
+| [e.g., Job applicants]  | [Benefits of selected definitions] | [Potential downsides] | [Overall impact] |
 | [e.g., Hiring managers] | [Benefits of selected definitions] | [Potential downsides] | [Overall impact] |
 
 ## Considered Alternatives
 
 ### Alternative Definitions Considered
 
-| Definition | Description | Rejection Rationale |
-|------------|-------------|---------------------|
+| Definition      | Description         | Rejection Rationale                    |
+|-----------------|---------------------|----------------------------------------|
 | [Alternative 1] | [Brief description] | [Why this definition was not selected] |
 | [Alternative 2] | [Brief description] | [Why this definition was not selected] |
 
@@ -94,9 +94,9 @@
 
 ### Stakeholder Input
 
-| Stakeholder Group | Representatives | Input Method | Key Perspectives |
-|-------------------|-----------------|--------------|------------------|
-| [Group name] | [Names or roles] | [e.g., Workshop, Survey] | [Summary of input] |
+| Stakeholder Group | Representatives  | Input Method             | Key Perspectives   |
+|-------------------|------------------|--------------------------|--------------------|
+| [Group name]      | [Names or roles] | [e.g., Workshop, Survey] | [Summary of input] |
 
 ### Reconciliation of Perspectives
 
@@ -171,8 +171,8 @@
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Fairness Lead | | | |
-| System Owner | | | |
-| Legal/Compliance | | | |
+| Role             | Name | Signature | Date |
+|------------------|------|-----------|------|
+| Fairness Lead    |      |           |      |
+| System Owner     |      |           |      |
+| Legal/Compliance |      |           |      |

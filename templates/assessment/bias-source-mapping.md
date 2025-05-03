@@ -20,16 +20,16 @@
 
 ### Lifecycle Stages Analyzed
 
-| Lifecycle Stage | Analysis Methods | Team Members |
-|-----------------|------------------|--------------|
-| Problem Formulation | [Methods used] | [Names/roles] |
-| Data Collection | [Methods used] | [Names/roles] |
-| Data Preparation | [Methods used] | [Names/roles] |
-| Feature Engineering | [Methods used] | [Names/roles] |
-| Model Selection & Training | [Methods used] | [Names/roles] |
-| Evaluation | [Methods used] | [Names/roles] |
-| Deployment | [Methods used] | [Names/roles] |
-| Monitoring & Feedback | [Methods used] | [Names/roles] |
+| Lifecycle Stage            | Analysis Methods | Team Members  |
+|----------------------------|------------------|---------------|
+| Problem Formulation        | [Methods used]   | [Names/roles] |
+| Data Collection            | [Methods used]   | [Names/roles] |
+| Data Preparation           | [Methods used]   | [Names/roles] |
+| Feature Engineering        | [Methods used]   | [Names/roles] |
+| Model Selection & Training | [Methods used]   | [Names/roles] |
+| Evaluation                 | [Methods used]   | [Names/roles] |
+| Deployment                 | [Methods used]   | [Names/roles] |
+| Monitoring & Feedback      | [Methods used]   | [Names/roles] |
 
 ### Risk Assessment Framework
 
@@ -46,25 +46,30 @@
 **Technical Manifestation**: [How this bias source manifests technically in the system]
 
 **Historical Connection**:
+
 - **Related Historical Patterns**: [References to patterns from the Historical Context Report]
 - **Evidence of Connection**: [Explanation of how this source connects to historical patterns]
 
 **Fairness Definition Impact**:
+
 - **Affected Definitions**: [Which fairness definitions from the Fairness Definition Rationale are affected]
 - **Impact Mechanism**: [How this bias source undermines these fairness definitions]
 
 **Risk Assessment**:
+
 - **Likelihood**: [High/Medium/Low with rationale]
 - **Impact Severity**: [High/Medium/Low with rationale]
 - **Detectability**: [Easily Detected/Moderately Detectable/Difficult to Detect with rationale]
 - **Overall Priority**: [Critical/High/Medium/Low]
 
 **Detection Methods**:
+
 - **Detection Approach**: [How this bias source can be detected]
 - **Required Data**: [Data needed for detection]
 - **Detection Limitations**: [Challenges in detecting this source]
 
 **Potential Mitigation Strategies**:
+
 - **Strategy 1**: [Description, complexity, expected effectiveness]
 - **Strategy 2**: [Description, complexity, expected effectiveness]
 
@@ -96,17 +101,17 @@
 
 ### Critical Priority Bias Sources
 
-| Source ID | Name | Stage | Risk Level | Mitigation Complexity |
-|-----------|------|-------|------------|----------------------|
-| [ID] | [Name] | [Stage] | [Level] | [High/Medium/Low] |
+| Source ID | Name   | Stage   | Risk Level | Mitigation Complexity |
+|-----------|--------|---------|------------|-----------------------|
+| [ID]      | [Name] | [Stage] | [Level]    | [High/Medium/Low]     |
 
 **Prioritization Rationale**: [Explain the rationale for prioritizing these sources]
 
 ### Secondary Priority Bias Sources
 
-| Source ID | Name | Stage | Risk Level | Mitigation Complexity |
-|-----------|------|-------|------------|----------------------|
-| [ID] | [Name] | [Stage] | [Level] | [High/Medium/Low] |
+| Source ID | Name   | Stage   | Risk Level | Mitigation Complexity |
+|-----------|--------|---------|------------|-----------------------|
+| [ID]      | [Name] | [Stage] | [Level]    | [High/Medium/Low]     |
 
 ## Fairness Definition Alignment
 
@@ -117,9 +122,11 @@ For each fairness definition selected in the Fairness Definition Rationale:
 #### [Fairness Definition Name]
 
 **Key Bias Sources**:
+
 - [List and briefly describe the bias sources that most directly impact this definition]
 
 **Mitigation Priorities**:
+
 - [Specific mitigation priorities to support this fairness definition]
 
 ## Intersectional Considerations
@@ -160,9 +167,9 @@ For each fairness definition selected in the Fairness Definition Rationale:
 
 ### Stakeholder Input
 
-| Stakeholder Group | Representatives | Consultation Method | Key Insights |
-|-------------------|-----------------|---------------------|-------------|
-| [Group name] | [Names or roles] | [Interview, focus group, etc.] | [Summary of input] |
+| Stakeholder Group | Representatives  | Consultation Method            | Key Insights       |
+|-------------------|------------------|--------------------------------|--------------------|
+| [Group name]      | [Names or roles] | [Interview, focus group, etc.] | [Summary of input] |
 
 ### Differing Perspectives
 
@@ -224,8 +231,8 @@ For each fairness definition selected in the Fairness Definition Rationale:
 
 ## Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Bias Source Mapping Lead | | | |
-| Technical Lead | | | |
-| Fairness Assessment Lead | | | |
+| Role                     | Name | Signature | Date |
+|--------------------------|------|-----------|------|
+| Bias Source Mapping Lead |      |           |      |
+| Technical Lead           |      |           |      |
+| Fairness Assessment Lead |      |           |      |
