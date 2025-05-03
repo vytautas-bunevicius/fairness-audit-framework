@@ -1,5 +1,42 @@
 # Intersectional Analysis
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Executive Summary](#executive-summary)
+- [Methodological Approach](#methodological-approach)
+    - [Intersectionality Framework](#intersectionality-framework)
+    - [Selection of Intersections](#selection-of-intersections)
+    - [Statistical Approach](#statistical-approach)
+    - [Data Considerations](#data-considerations)
+- [Intersectional Findings](#intersectional-findings)
+    - [Intersection 1: [Name, e.g., Gender × Race]](#intersection-1-name-eg-gender--race)
+- [Cross-Intersection Analysis](#cross-intersection-analysis)
+    - [Compounding Patterns](#compounding-patterns)
+    - [Unique Intersectional Effects](#unique-intersectional-effects)
+    - [Relative Disparity Analysis](#relative-disparity-analysis)
+- [Connection to Bias Sources](#connection-to-bias-sources)
+    - [Intersectional Bias Pathways](#intersectional-bias-pathways)
+    - [Root Cause Analysis](#root-cause-analysis)
+- [Stakeholder Perspectives](#stakeholder-perspectives)
+    - [Stakeholder Input](#stakeholder-input)
+    - [Lived Experience Context](#lived-experience-context)
+- [Implications for Fairness Definitions](#implications-for-fairness-definitions)
+    - [Definition Adequacy Assessment](#definition-adequacy-assessment)
+    - [Proposed Refinements](#proposed-refinements)
+- [Mitigation Recommendations](#mitigation-recommendations)
+    - [Targeted Interventions](#targeted-interventions)
+    - [Universal Design Improvements](#universal-design-improvements)
+    - [Monitoring Recommendations](#monitoring-recommendations)
+- [Limitations and Caveats](#limitations-and-caveats)
+    - [Methodological Limitations](#methodological-limitations)
+    - [Data Limitations](#data-limitations)
+    - [Interpretation Challenges](#interpretation-challenges)
+- [Research and Development Needs](#research-and-development-needs)
+- [References](#references)
+- [Appendices](#appendices)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

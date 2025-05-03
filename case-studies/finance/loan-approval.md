@@ -1,10 +1,41 @@
 # Case Study: Fairness Assessment of Mortgage Loan Approval System
 
+## Table of Contents
+
+- [System Overview](#system-overview)
+   - [System Specifications](#system-specifications)
+- [Assessment Approach](#assessment-approach)
+   - [Key Stakeholders](#key-stakeholders)
+- [Historical Context Assessment](#historical-context-assessment)
+   - [Identified Historical Patterns](#identified-historical-patterns)
+   - [Evidence Sources](#evidence-sources)
+   - [Application Risk Mapping](#application-risk-mapping)
+- [Fairness Definition Selection](#fairness-definition-selection)
+   - [Primary Selected Definitions](#primary-selected-definitions)
+   - [Trade-off Analysis](#trade-off-analysis)
+- [Bias Source Identification](#bias-source-identification)
+   - [Critical Bias Sources](#critical-bias-sources)
+   - [Risk Assessment Matrix](#risk-assessment-matrix)
+- [Metrics Implementation](#metrics-implementation)
+   - [Implemented Metrics](#implemented-metrics)
+   - [Intersectional Analysis](#intersectional-analysis)
+- [Identified Issues](#identified-issues)
+- [Regulatory Compliance Analysis](#regulatory-compliance-analysis)
+   - [Applicable Regulations](#applicable-regulations)
+   - [Compliance Documentation](#compliance-documentation)
+- [Interventions](#interventions)
+- [Results After Intervention](#results-after-intervention)
+- [Regulatory Outcomes](#regulatory-outcomes)
+- [Lessons Learned](#lessons-learned)
+- [Business Impact](#business-impact)
+- [Framework Effectiveness](#framework-effectiveness)
+- [References](#references)
+
 ## System Overview
 
-**System Name**: LendLogic AI  
-**Purpose**: Automated mortgage loan application screening and approval recommendation  
-**Organization**: Regional Banking Corporation  
+**System Name**: LendLogic AI
+**Purpose**: Automated mortgage loan application screening and approval recommendation
+**Organization**: Regional Banking Corporation
 **Deployment Context**: Consumer mortgage application processing
 
 ### System Specifications

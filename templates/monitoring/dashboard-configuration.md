@@ -1,5 +1,24 @@
 # Monitoring Dashboard Configuration
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Dashboard Overview](#dashboard-overview)
+    - [Purpose](#purpose)
+    - [Dashboard Tool](#dashboard-tool)
+    - [Target Audience](#target-audience)
+- [Dashboard Content](#dashboard-content)
+    - [Key Visualizations](#key-visualizations)
+    - [Metrics Displayed](#metrics-displayed)
+    - [Data Granularity and Time Windows](#data-granularity-and-time-windows)
+- [Alerting Integration](#alerting-integration)
+    - [Alert Display](#alert-display)
+    - [Threshold Visualization](#threshold-visualization)
+    - [Link to Investigation](#link-to-investigation)
+- [Access and Security](#access-and-security)
+- [Maintenance and Updates](#maintenance-and-updates)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

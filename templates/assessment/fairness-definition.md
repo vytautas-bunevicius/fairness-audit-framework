@@ -1,5 +1,40 @@
 # Fairness Definition Rationale
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Definition Selection Overview](#definition-selection-overview)
+    - [Selected Definitions](#selected-definitions)
+    - [Selection Process Summary](#selection-process-summary)
+- [Definition Details](#definition-details)
+    - [Primary Definition: [Name]](#primary-definition-name)
+    - [Secondary Definition: [Name]](#secondary-definition-name)
+- [Trade-off Analysis](#trade-off-analysis)
+    - [Fairness-Accuracy Trade-offs](#fairness-accuracy-trade-offs)
+    - [Competing Fairness Definitions](#competing-fairness-definitions)
+    - [Stakeholder Impact Analysis](#stakeholder-impact-analysis)
+- [Considered Alternatives](#considered-alternatives)
+    - [Alternative Definitions Considered](#alternative-definitions-considered)
+    - [Comparative Analysis](#comparative-analysis)
+- [Stakeholder Involvement](#stakeholder-involvement)
+    - [Stakeholder Input](#stakeholder-input)
+    - [Reconciliation of Perspectives](#reconciliation-of-perspectives)
+- [Domain-Specific Considerations](#domain-specific-considerations)
+    - [Contextual Factors](#contextual-factors)
+    - [Domain Adaptation](#domain-adaptation)
+- [Limitations and Caveats](#limitations-and-caveats)
+    - [Definition Limitations](#definition-limitations)
+    - [Measurement Uncertainty](#measurement-uncertainty)
+- [Versioning and Review](#versioning-and-review)
+    - [Definition Evolution](#definition-evolution)
+    - [Review Schedule](#review-schedule)
+- [References](#references)
+    - [Academic Sources](#academic-sources)
+    - [Industry Standards](#industry-standards)
+    - [Regulatory Guidance](#regulatory-guidance)
+- [Appendices](#appendices)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

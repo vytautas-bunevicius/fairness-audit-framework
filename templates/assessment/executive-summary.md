@@ -1,5 +1,30 @@
 # Fairness Assessment Executive Summary
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [System Overview](#system-overview)
+- [Assessment Approach](#assessment-approach)
+- [Key Findings](#key-findings)
+    - [Overall Fairness Determination](#overall-fairness-determination)
+    - [Critical Fairness Issues](#critical-fairness-issues)
+    - [Fairness Strengths](#fairness-strengths)
+- [Historical Context Insights](#historical-context-insights)
+- [Fairness Definitions & Standards](#fairness-definitions--standards)
+- [Major Bias Sources](#major-bias-sources)
+- [Metrics & Measurement](#metrics--measurement)
+- [Recommendations](#recommendations)
+    - [Critical Actions](#critical-actions)
+    - [Monitoring Recommendations](#monitoring-recommendations)
+- [Business & Ethical Implications](#business--ethical-implications)
+- [Implementation Roadmap](#implementation-roadmap)
+- [Limitations & Constraints](#limitations--constraints)
+- [Stakeholder Considerations](#stakeholder-considerations)
+- [Conclusion](#conclusion)
+- [Acknowledgments](#acknowledgments)
+- [Next Steps](#next-steps)
+- [Executive Approvals](#executive-approvals)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

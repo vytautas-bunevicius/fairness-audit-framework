@@ -1,6 +1,6 @@
-## Table of Contents
-
 # Integration Methodology
+
+## Table of Contents
 
 - [Component Integration Architecture](#component-integration-architecture)
 - [Standardized Data Exchange Formats](#standardized-data-exchange-formats)

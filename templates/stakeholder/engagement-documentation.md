@@ -1,5 +1,45 @@
 # Stakeholder Engagement Documentation
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Stakeholder Engagement Overview](#stakeholder-engagement-overview)
+  - [Engagement Strategy](#engagement-strategy)
+  - [Stakeholder Identification Process](#stakeholder-identification-process)
+- [Stakeholder Landscape](#stakeholder-landscape)
+  - [Key Stakeholder Groups](#key-stakeholder-groups)
+  - [Representation Analysis](#representation-analysis)
+- [Engagement Activities](#engagement-activities)
+  - [Activity Summary](#activity-summary)
+  - [Detailed Activities](#detailed-activities)
+- [Stakeholder Perspectives](#stakeholder-perspectives)
+  - [Key Themes by Component](#key-themes-by-component)
+  - [Divergent Perspectives](#divergent-perspectives)
+  - [Consensus Areas](#consensus-areas)
+- [Integration into Assessment](#integration-into-assessment)
+  - [Input Integration by Component](#input-integration-by-component)
+  - [Decision Documentation](#decision-documentation)
+  - [Input Not Incorporated](#input-not-incorporated)
+- [Lived Experience Integration](#lived-experience-integration)
+  - [Lived Experience Methodology](#lived-experience-methodology)
+  - [Key Insights from Lived Experience](#key-insights-from-lived-experience)
+  - [Impact on Assessment](#impact-on-assessment)
+- [Engagement Effectiveness](#engagement-effectiveness)
+  - [Engagement Evaluation](#engagement-evaluation)
+  - [Participation Barriers](#participation-barriers)
+  - [Lessons Learned](#lessons-learned)
+- [Ongoing Engagement Plan](#ongoing-engagement-plan)
+  - [Feedback Loop Design](#feedback-loop-design)
+  - [Implementation Involvement](#implementation-involvement)
+  - [Future Engagement Commitments](#future-engagement-commitments)
+- [Ethical Considerations](#ethical-considerations)
+  - [Engagement Ethics](#engagement-ethics)
+  - [Confidentiality and Attribution](#confidentiality-and-attribution)
+  - [Accessibility Measures](#accessibility-measures)
+- [References](#references)
+- [Appendices](#appendices)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

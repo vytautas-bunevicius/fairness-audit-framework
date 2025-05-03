@@ -1,5 +1,19 @@
 # Monitoring Metrics and Thresholds
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Metrics Selection Rationale](#metrics-selection-rationale)
+- [Core Fairness Metrics](#core-fairness-metrics)
+- [Supporting Metrics (Data Drift, Model Performance)](#supporting-metrics-data-drift-model-performance)
+- [Threshold Definitions](#threshold-definitions)
+    - [Threshold Setting Methodology](#threshold-setting-methodology)
+    - [Alert Level Definitions](#alert-level-definitions)
+- [Statistical Validation Approach for Monitoring](#statistical-validation-approach-for-monitoring)
+- [Metrics Implementation Details](#metrics-implementation-details)
+- [Review and Update Schedule](#review-and-update-schedule)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

@@ -1,5 +1,47 @@
 # Metrics Implementation Details
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Executive Summary](#executive-summary)
+- [Metric Selection Methodology](#metric-selection-methodology)
+    - [Selection Criteria](#selection-criteria)
+    - [Fairness Definition Alignment](#fairness-definition-alignment)
+    - [Bias Source Coverage](#bias-source-coverage)
+- [Implementation Details](#implementation-details)
+    - [Dataset Description](#dataset-description)
+    - [Protected Attributes](#protected-attributes)
+    - [Implementation Environment](#implementation-environment)
+- [Implemented Metrics](#implemented-metrics)
+    - [Metric 1: [Metric Name]](#metric-1-metric-name)
+- [Intersectional Analysis](#intersectional-analysis)
+    - [Approach to Intersectionality](#approach-to-intersectionality)
+    - [Intersectional Groups Analyzed](#intersectional-groups-analyzed)
+    - [Intersectional Results](#intersectional-results)
+    - [Key Intersectional Findings](#key-intersectional-findings)
+- [Holistic Analysis](#holistic-analysis)
+    - [Metric Correlations](#metric-correlations)
+    - [Subgroup Analysis](#subgroup-analysis)
+    - [Fairness-Performance Trade-offs](#fairness-performance-trade-offs)
+- [Interpretation and Implications](#interpretation-and-implications)
+    - [Priority Disparities](#priority-disparities)
+    - [Root Cause Connections](#root-cause-connections)
+    - [Business and Ethical Implications](#business-and-ethical-implications)
+- [Mitigation Recommendations](#mitigation-recommendations)
+    - [Recommended Interventions](#recommended-interventions)
+    - [Intervention Prioritization](#intervention-prioritization)
+    - [Monitoring Plan](#monitoring-plan)
+- [Limitations and Caveats](#limitations-and-caveats)
+    - [Measurement Limitations](#measurement-limitations)
+    - [Data Quality Issues](#data-quality-issues)
+    - [Interpretation Challenges](#interpretation-challenges)
+- [Stakeholder Perspectives](#stakeholder-perspectives)
+    - [Stakeholder Input](#stakeholder-input)
+    - [Stakeholder Impact Analysis](#stakeholder-impact-analysis)
+- [References](#references)
+- [Appendices](#appendices)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

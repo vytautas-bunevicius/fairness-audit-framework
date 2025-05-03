@@ -1,5 +1,21 @@
 # Monitoring Setup Configuration
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Monitoring Overview](#monitoring-overview)
+    - [Monitoring Objectives](#monitoring-objectives)
+    - [Monitoring Scope](#monitoring-scope)
+- [Monitoring Configuration](#monitoring-configuration)
+    - [Monitoring Frequency](#monitoring-frequency)
+    - [Monitoring Tools](#monitoring-tools)
+    - [Responsibility Matrix](#responsibility-matrix)
+    - [Escalation Paths](#escalation-paths)
+    - [Data Access and Permissions](#data-access-and-permissions)
+- [Initial Baseline](#initial-baseline)
+- [Review and Update Schedule](#review-and-update-schedule)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

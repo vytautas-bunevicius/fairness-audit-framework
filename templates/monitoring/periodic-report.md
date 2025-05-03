@@ -1,5 +1,24 @@
 # Fairness Monitoring Report
 
+## Table of Contents
+
+- [Report Information](#report-information)
+- [Executive Summary](#executive-summary)
+- [Monitoring Setup Overview](#monitoring-setup-overview)
+- [Monitoring Results](#monitoring-results)
+  - [Metric Trends](#metric-trends)
+  - [Intersectional Monitoring Results](#intersectional-monitoring-results-if-applicable)
+  - [Data Drift Analysis Summary](#data-drift-analysis-summary)
+- [Alerts and Investigations](#alerts-and-investigations)
+  - [Alerts Triggered During Period](#alerts-triggered-during-period)
+  - [Investigation Summaries](#investigation-summaries)
+- [Remediation Activities](#remediation-activities)
+  - [Actions Taken During Period](#actions-taken-during-period)
+  - [Planned Actions](#planned-actions)
+- [Limitations and Confidence](#limitations-and-confidence)
+- [Conclusion and Recommendations](#conclusion-and-recommendations)
+- [Approval](#approval)
+
 ## Report Information
 
 - **System Name**: [Name of AI system]
@@ -20,7 +39,8 @@
 * **Alert Thresholds**: [Summary of key thresholds used]
 * **Data Source**: [Source of data used for monitoring]
 * **Monitoring Tools**: [Tools/platforms used]
-* *(Reference `templates/monitoring-setup.md` and `templates/monitoring-metrics.md` from initial setup for full
+* *(Reference [setup-configuration.md](./setup-configuration.md)
+  and [metrics-and-thresholds.md](./metrics-and-thresholds.md) from initial setup for full
   details)*
 
 ## Monitoring Results
@@ -62,7 +82,7 @@
 **Investigation ID**: [Unique ID]
 
 * **Trigger**: [Alert details]
-* **Findings**: [Summary of root cause analysis - reference `templates/drift-investigation.md` if used]
+* **Findings**: [Summary of root cause analysis - reference [drift-investigation.md](./drift-investigation.md) if used]
 * **Impact Assessment**: [Assessed impact of the drift]
 * **Status**: [Closed/Ongoing/Remediation Planned]
 
@@ -75,7 +95,7 @@
 | [ID]             | [Description of action]  | [Date] | [Result of action] |
 | ...              | ...                      | ...    | ...                |
 
-*(Reference `templates/remediation-plan.md` if used)*
+*(Reference [remediation-plan.md](./remediation-plan.md) if used)*
 
 ### Planned Actions
 
@@ -84,7 +104,7 @@
 ## Limitations and Confidence
 
 [Acknowledge any limitations in the monitoring process for this period (e.g., data lags, metric limitations, threshold sensitivity).]
-[State overall confidence in the current fairness status based on monitoring.]
+<!-- State overall confidence in the current fairness status based on monitoring. -->
 
 ## Conclusion and Recommendations
 

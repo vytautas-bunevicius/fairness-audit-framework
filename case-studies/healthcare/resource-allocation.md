@@ -1,10 +1,39 @@
 # Case Study: Fairness Assessment of Healthcare Resource Allocation Model
 
+## Table of Contents
+
+- [System Overview](#system-overview)
+    - [System Specifications](#system-specifications)
+- [Assessment Approach](#assessment-approach)
+    - [Key Stakeholders](#key-stakeholders)
+- [Historical Context Assessment](#historical-context-assessment)
+    - [Identified Historical Patterns](#identified-historical-patterns)
+    - [Evidence Sources](#evidence-sources)
+    - [Application Risk Mapping](#application-risk-mapping)
+- [Fairness Definition Selection](#fairness-definition-selection)
+    - [Primary Selected Definitions](#primary-selected-definitions)
+    - [Trade-off Analysis](#trade-off-analysis)
+- [Bias Source Identification](#bias-source-identification)
+    - [Critical Bias Sources](#critical-bias-sources)
+    - [Risk Assessment Matrix](#risk-assessment-matrix)
+- [Metrics Implementation](#metrics-implementation)
+    - [Implemented Metrics](#implemented-metrics)
+    - [Intersectional Analysis](#intersectional-analysis)
+- [Identified Issues](#identified-issues)
+- [Ethical Analysis](#ethical-analysis)
+- [Interventions](#interventions)
+- [Results After Intervention](#results-after-intervention)
+- [Health Equity Impact](#health-equity-impact)
+- [Implementation Challenges](#implementation-challenges)
+- [Lessons Learned](#lessons-learned)
+- [Framework Effectiveness](#framework-effectiveness)
+- [References](#references)
+
 ## System Overview
 
-**System Name**: CareAlloc AI  
-**Purpose**: Prioritization of patients for specialized care services and resource allocation  
-**Organization**: Integrated Healthcare Network  
+**System Name**: CareAlloc AI
+**Purpose**: Prioritization of patients for specialized care services and resource allocation
+**Organization**: Integrated Healthcare Network
 **Deployment Context**: Large hospital system serving diverse urban and rural populations
 
 ### System Specifications

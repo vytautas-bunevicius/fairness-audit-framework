@@ -1,5 +1,37 @@
 # Fairness Drift Investigation Report
 
+## Table of Contents
+
+- [Assessment Information](#assessment-information)
+- [Alert Details](#alert-details)
+  - [Triggering Alert(s)](#triggering-alerts)
+  - [Initial Observations](#initial-observations)
+- [Investigation Scope and Methodology](#investigation-scope-and-methodology)
+  - [Investigation Goals](#investigation-goals)
+  - [Methodology](#methodology)
+  - [Tools Used](#tools-used)
+  - [Data Analyzed](#data-analyzed)
+- [Analysis Findings](#analysis-findings)
+  - [Alert Validation](#alert-validation)
+  - [Data Distribution Analysis](#data-distribution-analysis)
+  - [Model Behavior Analysis](#model-behavior-analysis)
+  - [Fairness Metric Deep Dive](#fairness-metric-deep-dive)
+  - [External Factor Analysis](#external-factor-analysis)
+- [Root Cause Analysis](#root-cause-analysis)
+  - [Hypotheses Considered](#hypotheses-considered)
+  - [Identified Root Cause(s)](#identified-root-causes)
+  - [Contributing Factors](#contributing-factors)
+- [Impact Assessment](#impact-assessment)
+  - [Severity Classification](#severity-classification)
+  - [Urgency Assessment](#urgency-assessment)
+- [Recommendations](#recommendations)
+  - [Short-Term Actions](#short-term-actions)
+  - [Long-Term Remediation](#long-term-remediation)
+  - [Monitoring Adjustments](#monitoring-adjustments)
+- [Limitations](#limitations)
+- [Next Steps](#next-steps)
+- [Approval](#approval)
+
 ## Assessment Information
 
 - **System Name**: [Name of AI system]

@@ -1,5 +1,37 @@
 # Fairness Assessment Plan
 
+## Table of Contents
+
+- [Assessment Identification](#assessment-identification)
+- [System Description](#system-description)
+    - [System Purpose and Context](#system-purpose-and-context)
+    - [Technical Specifications](#technical-specifications)
+- [Risk Assessment](#risk-assessment)
+    - [Impact Assessment](#impact-assessment)
+    - [Regulatory Context](#regulatory-context)
+- [Assessment Scope](#assessment-scope)
+    - [Components to Assess](#components-to-assess)
+    - [Assessment Depth](#assessment-depth)
+    - [Intersectional Considerations](#intersectional-considerations)
+- [Methodology Selection](#methodology-selection)
+    - [Selected Workflow](#selected-workflow)
+    - [Component Adaptations](#component-adaptations)
+- [Stakeholder Engagement Plan](#stakeholder-engagement-plan)
+    - [Stakeholder Identification](#stakeholder-identification)
+    - [Engagement Timeline](#engagement-timeline)
+- [Resource Allocation](#resource-allocation)
+    - [Team Composition](#team-composition)
+    - [Timeline](#timeline)
+    - [Data Requirements](#data-requirements)
+- [Documentation Plan](#documentation-plan)
+    - [Required Documentation](#required-documentation)
+    - [Version Control](#version-control)
+- [Continuous Improvement](#continuous-improvement)
+    - [Re-assessment Triggers](#re-assessment-triggers)
+    - [Feedback Integration](#feedback-integration)
+- [Approval](#approval)
+- [References](#references)
+
 ## Assessment Identification
 
 - **System Name**: [Name of AI system]

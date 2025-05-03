@@ -1,10 +1,36 @@
 # Case Study: Fairness Assessment of Resume Screening Algorithm
 
+## Table of Contents
+
+- [System Overview](#system-overview)
+    - [System Specifications](#system-specifications)
+- [Assessment Approach](#assessment-approach)
+    - [Key Stakeholders](#key-stakeholders)
+- [Historical Context Assessment](#historical-context-assessment)
+    - [Identified Historical Patterns](#identified-historical-patterns)
+    - [Evidence Sources](#evidence-sources)
+    - [Application Risk Mapping](#application-risk-mapping)
+- [Fairness Definition Selection](#fairness-definition-selection)
+    - [Primary Selected Definitions](#primary-selected-definitions)
+    - [Trade-off Analysis](#trade-off-analysis)
+- [Bias Source Identification](#bias-source-identification)
+    - [Critical Bias Sources](#critical-bias-sources)
+    - [Risk Assessment Matrix](#risk-assessment-matrix)
+- [Metrics Implementation](#metrics-implementation)
+    - [Implemented Metrics](#implemented-metrics)
+    - [Statistical Validation](#statistical-validation)
+- [Intersectional Analysis](#intersectional-analysis)
+- [Identified Issues](#identified-issues)
+- [Interventions](#interventions)
+- [Results After Intervention](#results-after-intervention)
+- [Lessons Learned](#lessons-learned)
+- [References](#references)
+
 ## System Overview
 
-**System Name**: TalentMatch AI  
-**Purpose**: Automated resume screening and candidate ranking for initial hiring pipeline  
-**Organization**: Fortune 500 Technology Company  
+**System Name**: TalentMatch AI
+**Purpose**: Automated resume screening and candidate ranking for initial hiring pipeline
+**Organization**: Fortune 500 Technology Company
 **Deployment Context**: High-volume IT recruitment
 
 ### System Specifications
