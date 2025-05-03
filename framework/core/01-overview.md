@@ -9,26 +9,26 @@ Think of a fairness audit like building a case. You need evidence and reasoning.
 1.  **Understand the Past (Historical Context Assessment - HCA)**
     *   **Goal:** Find out about real-world discrimination related to what your AI does (e.g., bias in past hiring for a hiring AI).
     *   **Why:** History often repeats in data and algorithms. Knowing the past helps spot risks.
-    *   **Output Template:** [`templates/template-historical-context-assessment-report.md`](../templates/template-historical-context-assessment-report.md)
-    *   **Detailed Guidance:** See domain-specific examples in [`resources/guide-domain-adaptation-methodology.md`](../resources/guide-domain-adaptation-methodology.md).
+    *   **Output Template:** [`templates/assessment/historical-context.md`](../../templates/assessment/historical-context.md)
+    *   **Detailed Guidance:** See domain-specific examples in [`resources/guides/domain-adaptation.md`](../../resources/guides/domain-adaptation.md).
 
 2.  **Define "Fairness" (Fairness Definition Selection - FDS)**
     *   **Goal:** Decide exactly what "fair" means for *your* AI in *this* situation. There are many ways to define fairness (like ensuring equal opportunity vs. equal outcomes), and they often conflict.
     *   **Why:** You can't measure fairness without defining it first. Your choice depends on the context (from HCA), ethics, rules, and stakeholder input.
-    *   **Output Template:** [`templates/template-fairness-definition-selection-rationale.md`](../templates/template-fairness-definition-selection-rationale.md)
-    *   **Detailed Guidance:** Consult definition comparisons and selection strategies. Consider input from stakeholder engagement (see [`resources/guide-stakeholder-engagement-methodology.md`](../resources/guide-stakeholder-engagement-methodology.md)).
+    *   **Output Template:** [`templates/assessment/fairness-definition.md`](../../templates/assessment/fairness-definition.md)
+    *   **Detailed Guidance:** Consult definition comparisons and selection strategies. Consider input from stakeholder engagement (see [`resources/guides/stakeholder-engagement.md`](../../resources/guides/stakeholder-engagement.md)).
 
 3.  **Find Potential Problems (Bias Source Identification - BSI)**
     *   **Goal:** Look through how your AI was built and how it's used to find *where* bias could get in. This includes the data, the features, the model itself, and how people use it.
     *   **Why:** Knowing *where* bias might come from helps you focus your testing and fixes. Your chosen fairness definition (from FDS) helps you know what *kind* of bias sources are most important to look for.
-    *   **Output Template:** [`templates/template-bias-source-mapping-and-risk-assessment.md`](../templates/template-bias-source-mapping-and-risk-assessment.md)
-    *   **Detailed Guidance:** Analyze the full ML lifecycle. Consider technical and socio-technical sources. For deeper analysis, see [`resources/guide-causal-fairness-analysis-methodology.md`](../resources/guide-causal-fairness-analysis-methodology.md).
+    *   **Output Template:** [`templates/assessment/bias-source-mapping.md`](../../templates/assessment/bias-source-mapping.md)
+    *   **Detailed Guidance:** Analyze the full ML lifecycle. Consider technical and socio-technical sources. For deeper analysis, see [`resources/guides/causal-fairness-analysis.md`](../../resources/guides/causal-fairness-analysis.md).
 
 4.  **Measure the Results (Metrics Implementation & Analysis - MIA)**
     *   **Goal:** Use data to check if the AI meets the fairness definitions you chose, paying attention to the bias sources you identified.
     *   **Why:** This gives you evidence about whether the AI is actually fair according to your chosen standard. It involves looking at different groups, including combinations (intersectionality).
-    *   **Output Templates:** [`templates/template-metrics-implementation-and-results.md`](../templates/template-metrics-implementation-and-results.md), [`templates/template-intersectional-analysis-report.md`](../templates/template-intersectional-analysis-report.md)
-    *   **Detailed Guidance:** Select metrics aligned with definitions and bias sources. Use statistical validation. For advanced techniques, see [`resources/guide-intersectional-analysis-methodology.md`](../resources/guide-intersectional-analysis-methodology.md).
+    *   **Output Templates:** [`templates/assessment/metrics-implementation.md`](../../templates/assessment/metrics-implementation.md), [`templates/assessment/intersectional-analysis.md`](../../templates/assessment/intersectional-analysis.md)
+    *   **Detailed Guidance:** Select metrics aligned with definitions and bias sources. Use statistical validation.
 
 ## 2. How the Parts Connect (Integration)
 
@@ -52,30 +52,30 @@ These four parts aren't isolated; they build on each other in a logical flow wit
 
 This connection is key! It makes the audit logical and links technical measurements back to real-world context. The framework's effectiveness can be measured using Task Completion Rate metrics for each component handoff, ensuring the outputs from one stage successfully feed into subsequent stages.
 
-*   **Detailed Integration:** For technical details on how components connect, including data formats and orchestration, see [`framework/framework-integration-concepts.md`](framework-integration-concepts.md) and [`framework/framework-component-interfaces-and-dataformats.md`](framework-component-interfaces-and-dataformats.md).
+*   **Detailed Integration:** For technical details on how components connect, including data formats and orchestration, see [`framework/core/05-integration-concepts.md`](05-integration-concepts.md) and [`framework/core/02-component-interfaces.md`](02-component-interfaces.md).
 
 ## 3. Planning Your Audit
 
-Before diving in, make a plan using [`templates/template-assessment-plan.md`](../templates/template-assessment-plan.md):
+Before diving in, make a plan using [`templates/assessment/assessment-plan.md`](../../templates/assessment/assessment-plan.md):
 
 *   What system are you auditing?
 *   Why are you auditing? (e.g., pre-launch, compliance, problem investigation)
 *   What are the main fairness concerns or risks initially?
-*   Who needs to be involved? (Stakeholders - see Section 8 below and [`resources/guide-stakeholder-engagement-methodology.md`](../resources/guide-stakeholder-engagement-methodology.md))
+*   Who needs to be involved? (Stakeholders - see Section 8 below and [`resources/guides/stakeholder-engagement.md`](../../resources/guides/stakeholder-engagement.md))
 *   What resources (time, data, people) do you have?
 *   Which workflow will you use? (See Section 4)
-*   Are there specific rules or laws to follow? (See Section 8 and [`resources/guide-regulatory-compliance-mapping.md`](../resources/guide-regulatory-compliance-mapping.md))
+*   Are there specific rules or laws to follow? (See Section 8)
 
-**Detailed Implementation Steps:** Consult the [`framework/framework-implementation-step-by-step-guide.md`](framework-implementation-step-by-step-guide.md) for a step-by-step walkthrough.
+**Detailed Implementation Steps:** Consult the [`framework/core/04-implementation-guide.md`](04-implementation-guide.md) for a step-by-step walkthrough.
 
 ## 4. Choosing and Using Workflows
 
 We offer different processes depending on your needs. Choose one from `framework/workflows/` and follow its steps:
 
-*   **[`workflow-process-rapid-assessment.md`](workflows/workflow-rapid-assessment.md)**: Best for initial checks, low-risk systems, or when time is short. Covers basics quickly.
-*   **[`workflow-process-comprehensive-assessment.md`](workflows/workflow-comprehensive-assessment.md)**: Best for high-stakes systems or when a deep dive is needed. Thorough work on all components.
-*   **[`workflow-process-regulatory-compliance.md`](workflows/workflow-regulatory-compliance.md)**: Use if you need specific documents for legal or regulatory compliance. See also [`resources/guide-regulatory-compliance-mapping.md`](../resources/guide-regulatory-compliance-mapping.md).
-*   **[`workflow-process-continuous-monitoring.md`](workflows/workflow-continuous-monitoring.md)**: Use *after* an initial assessment for deployed systems. Focuses on tracking fairness over time.
+*   **[`01-rapid-assessment.md`](../workflows/01-rapid-assessment.md)**: Best for initial checks, low-risk systems, or when time is short. Covers basics quickly.
+*   **[`02-comprehensive-assessment.md`](../workflows/02-comprehensive-assessment.md)**: Best for high-stakes systems or when a deep dive is needed. Thorough work on all components.
+*   **[`04-regulatory-compliance.md`](../workflows/04-regulatory-compliance.md)**: Use if you need specific documents for legal or regulatory compliance.
+*   **[`03-continuous-monitoring.md`](../workflows/03-continuous-monitoring.md)**: Use *after* an initial assessment for deployed systems. Focuses on tracking fairness over time.
 
 Each workflow file lists specific steps, inputs, and output templates.
 
@@ -83,22 +83,22 @@ Each workflow file lists specific steps, inputs, and output templates.
 
 Your chosen workflow will guide you, but generally involves:
 
-1.  **Plan**: Complete [`templates/template-assessment-plan.md`](../templates/template-assessment-plan.md).
-2.  **Assess Historical Context**: Research and document in [`templates/template-historical-context-assessment-report.md`](../templates/template-historical-context-assessment-report.md).
-3.  **Select Fairness Definitions**: Analyze options, justify choices in [`templates/template-fairness-definition-selection-rationale.md`](../templates/template-fairness-definition-selection-rationale.md).
-4.  **Identify Bias Sources**: Analyze lifecycle, assess risks, document in [`templates/template-bias-source-mapping-and-risk-assessment.md`](../templates/template-bias-source-mapping-and-risk-assessment.md).
-5.  **Implement Metrics & Analyze**: Calculate metrics, perform disaggregated/intersectional analysis, document in [`templates/template-metrics-implementation-and-results.md`](../templates/template-metrics-implementation-and-results.md) and [`templates/template-intersectional-analysis-report.md`](../templates/template-intersectional-analysis-report.md).
-6.  **Synthesize & Report**: Analyze connections, document limitations ([`templates/template-assessment-limitations-acknowledgment.md`](../templates/template-assessment-limitations-acknowledgment.md)), record stakeholder input ([`templates/template-stakeholder-engagement-documentation.md`](../templates/template-stakeholder-engagement-documentation.md)), summarize ([`templates/template-assessment-executive-summary.md`](../templates/template-assessment-executive-summary.md)).
+1.  **Plan**: Complete [`templates/assessment/assessment-plan.md`](../../templates/assessment/assessment-plan.md).
+2.  **Assess Historical Context**: Research and document in [`templates/assessment/historical-context.md`](../../templates/assessment/historical-context.md).
+3.  **Select Fairness Definitions**: Analyze options, justify choices in [`templates/assessment/fairness-definition.md`](../../templates/assessment/fairness-definition.md).
+4.  **Identify Bias Sources**: Analyze lifecycle, assess risks, document in [`templates/assessment/bias-source-mapping.md`](../../templates/assessment/bias-source-mapping.md).
+5.  **Implement Metrics & Analyze**: Calculate metrics, perform disaggregated/intersectional analysis, document in [`templates/assessment/metrics-implementation.md`](../../templates/assessment/metrics-implementation.md) and [`templates/assessment/intersectional-analysis.md`](../../templates/assessment/intersectional-analysis.md).
+6.  **Synthesize & Report**: Analyze connections, document limitations ([`templates/assessment/limitations.md`](../../templates/assessment/limitations.md)), record stakeholder input ([`templates/stakeholder/engagement-documentation.md`](../../templates/stakeholder/engagement-documentation.md)), summarize ([`templates/assessment/executive-summary.md`](../../templates/assessment/executive-summary.md)).
 
-**Detailed Implementation:** Refer to [`framework/framework-implementation-step-by-step-guide.md`](framework-implementation-step-by-step-guide.md).
+**Detailed Implementation:** Refer to [`framework/core/04-implementation-guide.md`](04-implementation-guide.md).
 
 ## 6. Essential Documentation: Using Templates
 
-Consistent documentation using the [`templates/`](../templates/) directory is crucial. Key templates are listed in the steps above. Fill these out as you complete each step of your chosen workflow.
+Consistent documentation using the organized `templates/` subdirectories is crucial. Key templates are listed in the steps above. Fill these out as you complete each step of your chosen workflow.
 
 ## 7. Evaluating Your Audit (Assessment Quality)
 
-How do you know if your fairness audit was good? Use the criteria defined in [`framework/framework-evaluation-criteria-and-metrics.md`](framework-evaluation-criteria-and-metrics.md), covering:
+How do you know if your fairness audit was good? Use the criteria defined in [`framework/core/03-evaluation-criteria.md`](03-evaluation-criteria.md), covering:
 
 *   **Functional Assessment:** Was the process followed correctly?
     * **Key Metrics**: Documentation Error Rate, Process Compliance Rate, Component Integration Completeness
@@ -120,26 +120,26 @@ Use peer review, checklists, or stakeholder feedback based on these criteria. Fo
 
 ## 8. Advanced Topics & Adaptation
 
-*   **Domain/Regulatory Adaptation**: Fairness issues vary by context. See [`resources/guide-domain-adaptation-methodology.md`](../resources/guide-domain-adaptation-methodology.md) and [`resources/guide-regulatory-compliance-mapping.md`](../resources/guide-regulatory-compliance-mapping.md) for tailoring the framework.
+*   **Domain Adaptation**: Fairness issues vary by context. See [`resources/guides/domain-adaptation.md`](../../resources/guides/domain-adaptation.md) for tailoring the framework.
     * **Regulatory Alignment**: The framework maps directly to key regulations including:
       * **EEOC Guidelines**: Templates align with the 4/5ths rule requirements and adverse impact analysis
       * **IEEE Standard 7003-2023**: Documentation templates satisfy the Algorithmic Bias Considerations standard
       * **EU AI Act**: Workflow supports high-risk AI system documentation requirements
       * **Model Risk (SR 11-7)**: Integration with model risk governance frameworks
 
-*   **Stakeholder Engagement**: Involving affected communities is vital. See [`resources/guide-stakeholder-engagement-methodology.md`](../resources/guide-stakeholder-engagement-methodology.md) for methods.
-    * **Documentation**: Use [`templates/template-stakeholder-engagement-documentation.md`](../templates/template-stakeholder-engagement-documentation.md) to record input and demonstrate inclusive development.
+*   **Stakeholder Engagement**: Involving affected communities is vital. See [`resources/guides/stakeholder-engagement.md`](../../resources/guides/stakeholder-engagement.md) for methods.
+    * **Documentation**: Use [`templates/stakeholder/engagement-documentation.md`](../../templates/stakeholder/engagement-documentation.md) to record input and demonstrate inclusive development.
 
-*   **Intersectionality**: Fairness often differs at the intersection of identities (e.g., race and gender). Basic analysis is covered in MIA, but for advanced methods see [`resources/guide-intersectional-analysis-methodology.md`](../resources/guide-intersectional-analysis-methodology.md).
-    * **Implementation**: Use [`templates/template-intersectional-analysis-report.md`](../templates/template-intersectional-analysis-report.md) to document compound disadvantages.
+*   **Intersectionality**: Fairness often differs at the intersection of identities (e.g., race and gender). Basic analysis is covered in MIA.
+    * **Implementation**: Use [`templates/assessment/intersectional-analysis.md`](../../templates/assessment/intersectional-analysis.md) to document compound disadvantages.
 
-*   **Causal Fairness**: To understand root causes beyond correlations, see [`resources/guide-causal-fairness-analysis-methodology.md`](../resources/guide-causal-fairness-analysis-methodology.md).
+*   **Causal Fairness**: To understand root causes beyond correlations, see [`resources/guides/causal-fairness-analysis.md`](../../resources/guides/causal-fairness-analysis.md).
     * **Advanced Methods**: Includes Peer-induced Fairness approaches for algorithmic audits that identify causal mechanisms of bias rather than just statistical correlations.
 
 ## 9. Tracking Changes (Versioning)
 
 AI systems and fairness understanding evolve. It's essential to track assessment versions.
-*   **Protocol:** Follow the detailed protocol in [`framework/framework-versioning-protocol.md`](framework-versioning-protocol.md).
+*   **Protocol:** Follow the detailed protocol in [`framework/core/06-versioning-protocol.md`](06-versioning-protocol.md).
 *   **Examples:** *(See protocol file for guidance, specific examples file removed for consolidation)*
 
 ## 10. Third-Party Validation and Certification
@@ -150,8 +150,6 @@ For organizations seeking external validation of their fairness assessments, the
 * **Audit Evidence Package**: The completed templates form a comprehensive evidence package suitable for external review.
 * **Validation Methodology**: External auditors can use the framework's evaluation criteria to validate assessment quality.
 * **Continuous Compliance**: The monitoring workflow supports ongoing compliance verification after initial certification.
-
-For implementation details, see [`resources/guide-regulatory-compliance-mapping.md`](../resources/guide-regulatory-compliance-mapping.md) which includes certification readiness guidance.
 
 ## 11. Conclusion
 
