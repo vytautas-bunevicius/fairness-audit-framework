@@ -1,5 +1,25 @@
 # Regulatory Compliance Workflow
 
+## Table of Contents
+
+- [Workflow Overview](#workflow-overview)
+- [Detailed Workflow Steps](#detailed-workflow-steps)
+  - [1. Regulatory Mapping](#1-regulatory-mapping)
+  - [2. Historical Context Documentation](#2-historical-context-documentation)
+  - [3. Fairness Definition Justification](#3-fairness-definition-justification)
+  - [4. Comprehensive Bias Documentation](#4-comprehensive-bias-documentation)
+  - [5. Metrics Implementation & Validation](#5-metrics-implementation--validation)
+  - [6. Evidence Compilation](#6-evidence-compilation)
+  - [7. Compliance Documentation Package](#7-compliance-documentation-package)
+- [Regulatory Framework Adaptations](#regulatory-framework-adaptations)
+  - [EU AI Act Adaptation](#eu-ai-act-adaptation)
+  - [EEOC/US Employment Adaptation](#eecous-employment-adaptation)
+  - [Financial Services Adaptation](#financial-services-adaptation)
+- [Documentation Considerations](#documentation-considerations)
+  - [Evidentiary Standards](#evidentiary-standards)
+  - [Confidentiality Balance](#confidentiality-balance)
+- [References](#references)
+
 This workflow is specifically designed to produce comprehensive documentation that satisfies regulatory and compliance
 requirements for AI fairness. Use this workflow when preparing documentation for regulatory submission, legal
 compliance, or formal governance processes.

@@ -1,5 +1,33 @@
 # Evaluation Criteria
 
+## Table of Contents
+
+- [Framework Evaluation Dimensions](#framework-evaluation-dimensions)
+- [Functional Assessment](#1-functional-assessment)
+    - [Component Integration Evaluation](#component-integration-evaluation)
+    - [Workflow Execution Verification](#workflow-execution-verification)
+    - [Edge Case Handling](#edge-case-handling)
+- [Fairness Effectiveness](#2-fairness-effectiveness)
+    - [Issue Detection Capability](#issue-detection-capability)
+    - [Multi-dimensional Coverage](#multi-dimensional-coverage)
+    - [Root Cause Analysis](#root-cause-analysis)
+    - [Actionability Assessment](#actionability-assessment)
+- [Usability Evaluation](#3-usability-evaluation)
+    - [Time and Resource Efficiency](#time-and-resource-efficiency)
+    - [Error Rate and Quality](#error-rate-and-quality)
+    - [User Experience](#user-experience)
+    - [Integration with Existing Processes](#integration-with-existing-processes)
+- [Limitations Assessment](#4-limitations-assessment)
+    - [Applicability Boundaries](#applicability-boundaries)
+    - [Uncertainty Quantification](#uncertainty-quantification)
+    - [Resource Requirement Clarity](#resource-requirement-clarity)
+- [Evaluation Methods](#evaluation-methods)
+- [Evaluation Score Card](#evaluation-score-card)
+- [Continuous Improvement Process](#continuous-improvement-process)
+- [References](#references)
+
+## Introduction
+
 This document outlines the structured criteria for evaluating both the individual components and the integrated
 framework effectiveness. These criteria provide a consistent approach to verifying that assessments meet quality
 standards and effectively address fairness concerns.

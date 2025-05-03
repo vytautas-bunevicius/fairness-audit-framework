@@ -1,16 +1,18 @@
+## Table of Contents
+
 # Integration Methodology
+
+- [Component Integration Architecture](#component-integration-architecture)
+- [Standardized Data Exchange Formats](#standardized-data-exchange-formats)
+- [Integration Methods](#integration-methods)
+- [Cross-Component Analysis](#cross-component-analysis)
+- [Integration Governance](#integration-governance)
+- [References](#references)
+
+## Introduction
 
 This document outlines how the four components of the Fairness Audit Framework connect into a cohesive assessment
 system.
-
-## Framework Core Documentation
-
-- **[01-overview.md](./01-overview.md)**: Overview and Navigation
-- **[02-component-interfaces.md](./02-component-interfaces.md)**: This document - Integration Methodology (you are here)
-- **[03-evaluation-criteria.md](./03-evaluation-criteria.md)**: Criteria for evaluating framework effectiveness
-- **[04-implementation-guide.md](./04-implementation-guide.md)**: Practical implementation steps
-- **[05-integration-concepts.md](./05-integration-concepts.md)**: Advanced integration concepts
-- **[06-versioning-protocol.md](./06-versioning-protocol.md)**: Framework versioning and updates
 
 ## Component Integration Architecture
 

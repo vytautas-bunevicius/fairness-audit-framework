@@ -1,5 +1,23 @@
 # Comprehensive Assessment Workflow
 
+## Table of Contents
+
+- [Workflow Overview](#workflow-overview)
+- [Detailed Workflow Steps](#detailed-workflow-steps)
+    - [1. Preparation & Planning](#1-preparation--planning)
+    - [2. Historical Context Assessment](#2-historical-context-assessment)
+    - [3. Fairness Definition Selection](#3-fairness-definition-selection)
+    - [4. Bias Source Identification](#4-bias-source-identification)
+    - [5. Metrics Implementation & Analysis](#5-metrics-implementation--analysis)
+    - [6. Integration & Synthesis](#6-integration--synthesis)
+    - [7. Validation & Verification](#7-validation--verification)
+    - [8. Documentation & Reporting](#8-documentation--reporting)
+- [Adaptation Guidelines](#adaptation-guidelines)
+    - [Scaling Comprehensiveness](#scaling-comprehensiveness)
+    - [Domain-Specific Adaptations](#domain-specific-adaptations)
+- [Quality Assurance](#quality-assurance)
+- [References](#references)
+
 This workflow provides a detailed, rigorous approach for high-stakes AI systems requiring thorough fairness evaluation.
 Use this workflow when system decisions have significant impact on individuals, when compliance requirements are
 stringent, or when fairness concerns are particularly salient.

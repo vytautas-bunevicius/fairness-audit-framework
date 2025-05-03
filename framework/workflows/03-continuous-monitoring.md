@@ -1,5 +1,34 @@
 # Continuous Fairness Monitoring Workflow
 
+## Table of Contents
+
+- [Workflow Overview](#workflow-overview)
+- [Detailed Workflow Steps](#detailed-workflow-steps)
+   - [1. Monitoring Setup & Configuration](#1-monitoring-setup--configuration)
+   - [2. Metric Selection & Threshold Definition](#2-metric-selection--threshold-definition)
+   - [3. Data Collection & Pipeline Integration](#3-data-collection--pipeline-integration)
+   - [4. Automated Analysis & Alerting](#4-automated-analysis--alerting)
+   - [5. Drift Investigation & Root Cause Analysis](#5-drift-investigation--root-cause-analysis)
+   - [6. Intervention & Remediation](#6-intervention--remediation)
+   - [7. Reporting & Documentation](#7-reporting--documentation)
+- [Implementation Approaches](#implementation-approaches)
+   - [Integration with MLOps Platforms](#integration-with-mlops-platforms)
+   - [Monitoring Frequency Guidelines](#monitoring-frequency-guidelines)
+   - [Threshold Setting Strategies](#threshold-setting-strategies)
+- [Adaptation Guidelines](#adaptation-guidelines)
+   - [For High-Stakes Applications](#for-high-stakes-applications)
+   - [For Resource-Constrained Environments](#for-resource-constrained-environments)
+   - [For Rapidly Evolving Models](#for-rapidly-evolving-models)
+- [Cross-functional Collaboration](#cross-functional-collaboration)
+   - [Roles and Responsibilities](#roles-and-responsibilities)
+   - [Communication Flow](#communication-flow)
+- [Best Practices for Continuous Monitoring](#best-practices-for-continuous-monitoring)
+- [Resources and Tools](#resources-and-tools)
+   - [Open-Source Monitoring Tools](#open-source-monitoring-tools)
+   - [Commercial Solutions](#commercial-solutions)
+   - [Key References](#key-references)
+   - [Additional Resources](#additional-resources)
+
 This workflow provides a structured approach for ongoing fairness monitoring of AI systems after initial assessment and
 deployment. It addresses the need for continuous verification of fairness properties as data distributions, model
 behavior, and deployment contexts evolve over time.
@@ -372,14 +401,7 @@ For effective monitoring collaboration:
 - **Arize AI**: ML observability platform with bias monitoring
 - **Weights & Biases**: MLOps platform with custom metrics for fairness
 
-### Reference Papers and Guides
-
-- [Continuous Monitoring for Fairness in Machine Learning: Practical Approaches](https://dl.acm.org/doi/abs/10.1145/3442188.3445924)
-- [Fairness and Machine Learning: Limitations and Opportunities - Chapter on Monitoring](https://fairmlbook.org)
-- [NIST AI Risk Management Framework - Monitoring Guidelines](https://www.nist.gov/itl/ai-risk-management-framework)
-- [IEEE 7003-2023 Standard for Algorithmic Bias Considerations - Monitoring Section](https://standards.ieee.org/ieee/7003/10789/)
-
-## References
+### Key References
 
 - Ruf, J., Wang, L., Marathe, M., Kloft, M., & Kühn, D. (2022). "Continuously Monitoring and Improving Machine Learning
   Based Decision Making." https://arxiv.org/pdf/2206.10063.pdf
@@ -388,6 +410,12 @@ For effective monitoring collaboration:
 - Shah, A., Panjabi, M., & Larochelle, H. (2023). "A survey of monitoring ML-based
   systems." https://arxiv.org/abs/2311.11252
 - NIST. (2023). "AI Risk Management Framework 1.0." https://doi.org/10.6028/NIST.AI.100-1
-- ML Commons. (2023). "Best Practices for ML Monitoring." https://mlcommons.org/en/groups/research-monitoring/
 - Mitchell, S., Minow, M., & Kasirzadeh, A. (2022). "Fairness Monitoring in Practice: Lessons from a High-Stakes
   Deployment." https://dl.acm.org/doi/pdf/10.1145/3531146.3533192
+
+### Additional Resources
+
+- [Fairness and Machine Learning: Limitations and Opportunities - Chapter on Monitoring](https://fairmlbook.org)
+- [NIST AI Risk Management Framework - Monitoring Guidelines](https://www.nist.gov/itl/ai-risk-management-framework)
+- [IEEE 7003-2023 Standard for Algorithmic Bias Considerations - Monitoring Section](https://standards.ieee.org/ieee/7003/10789/)
+- [ML Commons Best Practices for ML Monitoring](https://mlcommons.org/en/groups/research-monitoring/)

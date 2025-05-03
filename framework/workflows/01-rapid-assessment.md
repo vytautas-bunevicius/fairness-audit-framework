@@ -1,5 +1,21 @@
 # Rapid Assessment Workflow
 
+## Table of Contents
+
+- [Workflow Overview](#workflow-overview)
+- [Detailed Workflow Steps](#detailed-workflow-steps)
+  - [1. Scoping & Context](#1-scoping--context)
+  - [2. Key Fairness Definitions](#2-key-fairness-definitions)
+  - [3. Critical Bias Analysis](#3-critical-bias-analysis)
+  - [4. Core Metrics Evaluation](#4-core-metrics-evaluation)
+  - [5. Findings & Recommendations](#5-findings--recommendations)
+- [Adaptation Guidelines](#adaptation-guidelines)
+  - [When to Expand Assessment](#when-to-expand-assessment)
+  - [Domain-Specific Streamlining](#domain-specific-streamlining)
+- [Quality Assurance](#quality-assurance)
+- [From Rapid to Comprehensive](#from-rapid-to-comprehensive)
+- [References](#references)
+
 This workflow provides a streamlined approach for initial fairness evaluation of AI systems. Use this workflow for
 screening assessments, lower-risk applications, or when time and resources are limited.
 

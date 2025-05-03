@@ -1,5 +1,31 @@
 # Versioning Protocol
 
+## Table of Contents
+
+- [Principles of Effective Versioning](#principles-of-effective-versioning)
+- [Framework Versioning](#framework-versioning)
+  - [Version Numbering Scheme](#version-numbering-scheme)
+  - [Framework Component Versioning](#framework-component-versioning)
+  - [Version History Documentation](#version-history-documentation)
+- [Version History](#version-history)
+- [Assessment Versioning](#assessment-versioning)
+  - [Assessment Identifier Format](#assessment-identifier-format)
+  - [Assessment Version Numbering](#assessment-version-numbering)
+  - [Component Version Documentation](#component-version-documentation)
+- [Framework Versions Used](#framework-versions-used)
+- [Versioning Documentation Requirements](#versioning-documentation-requirements)
+- [Version Change Log](#version-change-log)
+- [Triggering Version Updates](#triggering-version-updates)
+- [Version Control Implementation](#version-control-implementation)
+- [Current Version](#current-version)
+- [Component Versions](#component-versions)
+- [Cross-Version Analysis](#cross-version-analysis)
+- [Longitudinal Analysis](#longitudinal-analysis)
+- [Stakeholder Communication](#stakeholder-communication)
+- [References](#references)
+
+## Introduction
+
 This document outlines the standardized approach for versioning fairness assessments, assessment components, and the
 framework itself. Effective versioning is essential for tracking changes over time, understanding the evolution of
 fairness assessments, and maintaining clear documentation of assessment history.

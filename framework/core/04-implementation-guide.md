@@ -1,5 +1,28 @@
 # AI Fairness Audit Framework Implementation Guide
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Framework Installation](#framework-installation)
+- [Selecting a Workflow](#selecting-a-workflow)
+   - [Rapid Assessment Workflow](#rapid-assessment-workflow)
+   - [Comprehensive Assessment Workflow](#comprehensive-assessment-workflow)
+   - [Regulatory Compliance Workflow](#regulatory-compliance-workflow)
+- [Implementing Framework Components](#implementing-framework-components)
+   - [Historical Context Assessment](#1-historical-context-assessment)
+   - [Fairness Definition Selection](#2-fairness-definition-selection)
+   - [Bias Source Identification](#3-bias-source-identification)
+   - [Comprehensive Metrics Implementation](#4-comprehensive-metrics-implementation)
+- [Example Implementation Timeline](#example-implementation-timeline)
+- [Integration with Development Processes](#integration-with-development-processes)
+- [Continuous Monitoring and Improvement](#continuous-monitoring-and-improvement)
+- [Troubleshooting Common Issues](#troubleshooting-common-issues)
+- [Case Study Examples](#case-study-examples)
+- [Additional Resources](#additional-resources)
+
+## Introduction
+
 This guide provides practical steps for implementing the AI Fairness Audit Framework within your organization. It covers
 initial setup, workflow selection, component implementation, and ongoing monitoring.
 

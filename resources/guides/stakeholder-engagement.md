@@ -1,5 +1,20 @@
 # AI Fairness: Stakeholder Engagement and Intersectional Analysis Guide
 
+## Table of Contents
+
+- [Part 1: Engaging Stakeholders Effectively](#part-1-engaging-stakeholders-effectively)
+    - [Why Engage Stakeholders?](#why-engage-stakeholders)
+    - [Identifying Stakeholders](#identifying-stakeholders)
+    - [How to Engage (Methods)](#how-to-engage-methods)
+    - [Facilitating Equitable Engagement](#facilitating-equitable-engagement)
+    - [Integrating Stakeholder Input](#integrating-stakeholder-input)
+- [Part 2: Analyzing Intersectional Fairness](#part-2-analyzing-intersectional-fairness)
+    - [Why Analyze Intersections?](#why-analyze-intersections)
+    - [Challenges](#challenges)
+    - [How to Analyze Intersections](#how-to-analyze-intersections)
+    - [Practical Steps within the Framework](#practical-steps-within-the-framework)
+    - [Handling Limitations](#handling-limitations)
+
 This guide covers two critical aspects of fairness assessment: meaningfully engaging diverse stakeholders (Part 1) and
 analyzing fairness for overlapping, intersectional groups (Part 2).
 

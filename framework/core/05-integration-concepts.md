@@ -1,5 +1,14 @@
 # Fairness Audit Framework: Integration Details
 
+## Table of Contents
+
+- [The Flow: How Information Connects Components](#1-the-flow-how-information-connects-components)
+- [Information Structure: What Gets Passed Along](#2-information-structure-what-gets-passed-along)
+- [Connecting the Dots: Cross-Component Analysis](#3-connecting-the-dots-cross-component-analysis)
+- [Managing the Process](#4-managing-the-process)
+
+## Introduction
+
 This document explains *how* the four main components of the framework connect and work together. It covers the flow of
 information, the structure of that information, and how to analyze findings across components.
 

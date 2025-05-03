@@ -1,5 +1,15 @@
 # AI Fairness: Domain Adaptation and Regulatory Compliance Guide
 
+## Table of Contents
+
+- [Part 1: Adapting the Framework to Your Domain](#part-1-adapting-the-framework-to-your-domain)
+    - [Key Adaptation Steps](#key-adaptation-steps)
+    - [Example Domain Considerations](#example-domain-considerations-summary---expand-based-on-need)
+- [Part 2: Using the Framework for Regulatory Compliance](#part-2-using-the-framework-for-regulatory-compliance)
+    - [General Compliance Strategy](#general-compliance-strategy)
+    - [Key Regulatory Considerations](#key-regulatory-considerations-examples---refer-to-specific-laws-for-full-detail)
+    - [Tips for Compliance](#tips-for-compliance)
+
 This guide helps you tailor the Fairness Audit Framework for specific industries or applications (Part 1) and use it to
 meet fairness-related legal and regulatory requirements (Part 2).
 

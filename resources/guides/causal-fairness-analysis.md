@@ -1,5 +1,22 @@
 # Causal Reasoning for Fairness Assessment
 
+## Table of Contents
+
+- [Why Causal Reasoning Matters for Fairness](#why-causal-reasoning-matters-for-fairness)
+- [Key Causal Concepts for Fairness Assessment](#key-causal-concepts-for-fairness-assessment)
+   - [Directed Acyclic Graphs (DAGs)](#directed-acyclic-graphs-dags)
+   - [Direct vs. Indirect Discrimination](#direct-vs-indirect-discrimination)
+   - [Counterfactual Fairness](#counterfactual-fairness)
+- [Applying Causal Reasoning to Fairness Assessment](#applying-causal-reasoning-to-fairness-assessment)
+   - [1. Constructing Causal Graphs](#1-constructing-causal-graphs)
+   - [2. Identifying Direct vs. Indirect Discrimination](#2-identifying-direct-vs-indirect-discrimination)
+   - [3. Measuring Counterfactual Fairness](#3-measuring-counterfactual-fairness)
+   - [4. Designing Causal Interventions](#4-designing-causal-interventions)
+- [Tools for Causal Fairness Analysis](#tools-for-causal-fairness-analysis)
+- [Case Study: Loan Approval System](#case-study-loan-approval-system)
+- [Best Practices for Causal Fairness Assessment](#best-practices-for-causal-fairness-assessment)
+- [References](#references)
+
 This guide provides a structured approach for applying causal reasoning to fairness assessment, helping teams move
 beyond correlational analysis to understand the underlying mechanisms of bias in AI systems.
 

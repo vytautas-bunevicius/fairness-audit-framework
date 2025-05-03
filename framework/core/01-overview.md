@@ -1,16 +1,23 @@
 # AI Fairness Audit Framework: Overview and Navigation
 
+## Table of Contents
+
+- [Framework Overview: The Four Key Parts](#1-framework-overview-the-four-key-parts)
+- [How the Parts Connect (Integration)](#2-how-the-parts-connect-integration)
+- [Planning Your Audit](#3-planning-your-audit)
+- [Choosing and Using Workflows](#4-choosing-and-using-workflows)
+- [Core Implementation Steps](#5-core-implementation-steps-general-summary)
+- [Essential Documentation: Using Templates](#6-essential-documentation-using-templates)
+- [Evaluating Your Audit](#7-evaluating-your-audit-assessment-quality)
+- [Advanced Topics & Adaptation](#8-advanced-topics--adaptation)
+- [Tracking Changes (Versioning)](#9-tracking-changes-versioning)
+- [Third-Party Validation and Certification](#10-third-party-validation-and-certification)
+- [Conclusion](#11-conclusion)
+
+## Introduction
+
 Welcome! This guide explains how to understand and implement the Fairness Audit Framework to assess your AI system. It
 provides an overview of the core components and directs you to more detailed resources within the framework.
-
-## Framework Core Documentation
-
-- **[01-overview.md](./01-overview.md)**: This document - Overview and Navigation (you are here)
-- **[02-component-interfaces.md](./02-component-interfaces.md)**: Integration Methodology between components
-- **[03-evaluation-criteria.md](./03-evaluation-criteria.md)**: Criteria for evaluating framework effectiveness
-- **[04-implementation-guide.md](./04-implementation-guide.md)**: Practical implementation steps
-- **[05-integration-concepts.md](./05-integration-concepts.md)**: Advanced integration concepts
-- **[06-versioning-protocol.md](./06-versioning-protocol.md)**: Framework versioning and updates
 
 ## 1. Framework Overview: The Four Key Parts
 
