@@ -4,7 +4,9 @@ This workflow provides a structured approach for ongoing fairness monitoring of 
 
 ## Workflow Overview
 
-![Continuous Monitoring Workflow](/resources/diagrams/continuous-monitoring-workflow.png)
+<div align="center">
+<img src="/resources/diagrams/continuous-monitoring-workflow.png" alt="Continuous Monitoring Workflow" width="600">
+</div>
 
 The continuous monitoring workflow follows this cyclical structure:
 

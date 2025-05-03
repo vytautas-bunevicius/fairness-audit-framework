@@ -4,7 +4,9 @@ This workflow is specifically designed to produce comprehensive documentation th
 
 ## Workflow Overview
 
-![Regulatory Compliance Workflow](/resources/diagrams/regulatory-compliance.png)
+<div align="center">
+<img src="/resources/diagrams/regulatory-compliance.png" alt="Regulatory Compliance Workflow" width="600" style="max-height: 500px; object-fit: contain;">
+</div>
 
 The regulatory compliance workflow follows this structured approach:
 

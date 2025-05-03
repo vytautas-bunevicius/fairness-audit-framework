@@ -24,18 +24,9 @@ A causal graph (DAG) represents variables as nodes and causal relationships as d
 - **Directed Edges**: Represent direct causal influence (e.g., `Education → Income` means education directly influences income)
 - **Paths**: Sequences of edges representing indirect causal influence
 
-```
-      Societal Factors (U) --> Race ---------> AI Decision
-           |                   |  \             ^
-           |                   |   \            |
-           V                   V    V           |
-      Zip Code ---------> Income -----> AI Decision
-         ^                   |                ^
-         |                   |                |
-         +------ Race --------+                |
-                             |                |
-                             +---- Education --+
-```
+<div align="center">
+<img src="../diagrams/societal-factors-ai-decision.png" alt="Societal Factors and AI Decision Causal Graph" width="600">
+</div>
 
 ### Direct vs. Indirect Discrimination
 
@@ -226,18 +217,9 @@ Based on causal analysis, design targeted interventions:
 A mortgage loan approval system uses applicant characteristics to determine approval recommendations.
 
 ### Initial Causal Graph
-```
-Race -------------> Loan Decision
-  |                    ^
-  v                    |
-Zip Code ------------->|
-  |                    |
-  v                    |
-Property Value ------->|
-  ^                    |
-  |                    |
-Income ---------------->
-```
+<div align="center">
+<img src="../diagrams/loan-approval-system.png" alt="Loan Approval System Causal Graph" width="600">
+</div>
 
 ### Identified Problematic Paths
 1. **Direct discrimination**: `Race → Loan Decision`

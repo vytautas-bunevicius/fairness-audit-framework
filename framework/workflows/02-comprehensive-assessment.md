@@ -4,7 +4,9 @@ This workflow provides a detailed, rigorous approach for high-stakes AI systems 
 
 ## Workflow Overview
 
-![Comprehensive Assessment Workflow](/resources/diagrams/comprehensive-workflow.png)
+<div align="center">
+<img src="/resources/diagrams/comprehensive-workflow.png" alt="Comprehensive Assessment Workflow" width="600" style="max-height: 450px; object-fit: contain;">
+</div>
 
 The comprehensive assessment follows this progressive structure:
 

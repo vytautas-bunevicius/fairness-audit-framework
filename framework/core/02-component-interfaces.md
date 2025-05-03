@@ -6,9 +6,9 @@ This document outlines how the four components of the Fairness Audit Framework c
 
 The Fairness Audit Framework integrates four complementary components through standardized interfaces and data exchange formats:
 
-```
-Historical Context Assessment → Fairness Definition Selection → Bias Source Identification → Comprehensive Metrics
-```
+<div align="center">
+<img src="/resources/diagrams/ai-fairness-pipeline.png" alt="AI Fairness Pipeline" width="600" style="max-height: 300px; object-fit: contain;">
+</div>
 
 ### Information Flow
 
@@ -43,7 +43,7 @@ Each component produces outputs that feed directly into subsequent components:
       "description": "Historical pattern of discrimination in hiring and promotion practices",
       "relevance_score": 0.85,
       "application_risks": [
-        "Feature selection bias", 
+        "Feature selection bias",
         "Label bias in training data",
         "Representation disparities"
       ],
