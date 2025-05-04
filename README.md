@@ -1,6 +1,17 @@
 # Fairness Audit Framework: A Comprehensive Methodology
 
-**(This file: `README.md`)**
+## Table of Contents
+
+- [Overview](#overview)
+- [How to Navigate and Use This Framework](#how-to-navigate-and-use-this-framework)
+    - [Start Here: The Framework Overview](#1-start-here-the-framework-overview)
+    - [Understand the Repository Structure](#2-understand-the-repository-structure)
+    - [Choose Your Assessment Process (Workflow)](#3-choose-your-assessment-process-workflow)
+    - [Execute the Workflow Using Templates and Guides](#4-execute-the-workflow-using-templates-and-guides)
+    - [Learn from Examples](#5-learn-from-examples)
+- [Key Features](#key-features)
+- [References](#references)
+- [License](#license)
 
 This repository contains a comprehensive methodology and associated resources for conducting systematic fairness
 assessments of AI systems.
@@ -21,6 +32,8 @@ This framework integrates four critical components into a cohesive audit system:
 
 This structured approach helps organizations determine whether their AI systems perpetuate historical biases, satisfy
 fairness requirements, or require intervention.
+The framework is designed with clear integration between components,
+where outputs from each stage serve as inputs to subsequent stages, creating a cohesive assessment process.
 
 ## How to Navigate and Use This Framework
 
@@ -30,6 +43,10 @@ This repository is organized to guide you through the assessment process. Here's
 
 * Begin by reading **[`framework/core/01-overview.md`](framework/core/01-overview.md)**. This is the main entry point
   that explains the core concepts, the four components, how they integrate, and how to plan your assessment.
+* This overview document explains how each component connects to the next in a logical flow:
+    * Historical Context Assessment → Fairness Definition Selection → Bias Source Identification → Metrics
+      Implementation
+    * Each component produces specific outputs that serve as inputs to subsequent stages
 
 **2. Understand the Repository Structure**
 
@@ -118,17 +135,26 @@ This repository is organized into key directories:
 
 ## Key Features
 
-* **Integrated Approach:** Connects historical context, definitions, bias sources, and metrics systematically.
+* **Integrated Approach:** Connects historical context, definitions, bias sources, and metrics systematically with clear
+  data handoffs between components:
+    * Historical patterns inform fairness definition selection
+    * Selected definitions guide bias source prioritization
+    * Identified bias sources determine which metrics to implement
+    * Metrics results inform root cause analysis and mitigation strategies
 * **Standardized Documentation:** Provides organized templates in [`templates/`](templates/) subdirectories for
   consistent, verifiable, and auditable assessments.
 * **Adaptable Workflows:** Offers different processes in [`framework/workflows/`](framework/workflows/) for rapid,
-  comprehensive, regulatory, and monitoring needs.
+  comprehensive, regulatory, and monitoring needs, each with step-by-step guidance.
 * **Operational Support:** Includes sequentially organized core guides in [`framework/core/`](framework/core/) covering
   implementation, evaluation, and versioning.
 * **Advanced Methodologies:** Provides detailed guides in [`resources/guides/`](resources/guides/) on causal fairness,
   stakeholder engagement, and domain adaptation.
 * **Domain-Specific Examples:** Offers real-world examples organized by industry in [`case-studies/`](case-studies/)
-  subdirectories.
+  subdirectories that demonstrate the framework in practice.
+* **Regulatory Alignment:** Provides guidance on using the framework for compliance with regulations such as the EU AI
+  Act, EEOC guidelines, and fair lending laws through the [
+  `resources/guides/domain-adaptation.md`](resources/guides/domain-adaptation.md) guide and the [
+  `framework/workflows/04-regulatory-compliance.md`](framework/workflows/04-regulatory-compliance.md) workflow.
 
 ## References
 
