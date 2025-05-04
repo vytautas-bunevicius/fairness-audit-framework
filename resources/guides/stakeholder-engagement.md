@@ -15,8 +15,9 @@
     - [Practical Steps within the Framework](#practical-steps-within-the-framework)
     - [Handling Limitations](#handling-limitations)
 
-This guide covers two critical aspects of fairness assessment: meaningfully engaging diverse stakeholders (Part 1) and
-analyzing fairness for overlapping, intersectional groups (Part 2).
+This guide covers two critical aspects of fairness assessment: meaningfully engaging diverse
+stakeholders ([Part 1](#part-1-engaging-stakeholders-effectively)) and
+analyzing fairness for overlapping, intersectional groups ([Part 2](#part-2-analyzing-intersectional-fairness)).
 
 ## Part 1: Engaging Stakeholders Effectively
 
@@ -45,8 +46,11 @@ Think broadly beyond the technical team:
 * **Legal/Compliance/Ethics:** Oversight roles.
 * **Leadership:** Decision-makers.
 
-**Action:** Map stakeholders in your `assessment-plan.md`. Consider power dynamics – whose voices might be marginalized?
-Plan *how* and *when* to engage using `templates/stakeholder-documentation.md` to track activities and input.
+**Action:** Map stakeholders in your [assessment-plan.md](../../templates/assessment/assessment-plan.md). Consider power
+dynamics – whose voices might be marginalized?
+Plan *how* and *when* to engage
+using [engagement-documentation.md](../../templates/stakeholder/engagement-documentation.md) to track activities and
+input.
 
 ### How to Engage (Methods)
 
@@ -63,13 +67,13 @@ based on goals and participants. Workshops are great for collaborative definitio
 * **Transparency:** Be clear on how input will be used.
 * **Compensation:** Value participants' time, especially community members.
 * **Documentation:** Get consent. Clarify attribution. Share back summaries. Use
-  `templates/stakeholder-documentation.md`.
+  [engagement-documentation.md](../../templates/stakeholder/engagement-documentation.md).
 
 ### Integrating Stakeholder Input
 
 * **Link Explicitly:** Connect input to specific assessment parts (e.g., "Historical pattern X validated by stakeholder
   workshop," "Definition Y prioritized based on advocate feedback"). Document this in relevant templates and summarize
-  in `templates/stakeholder-documentation.md`.
+  in [engagement-documentation.md](../../templates/stakeholder/engagement-documentation.md).
 * **Document Disagreements:** Note conflicting views and explain the rationale for final decisions.
 
 ---
@@ -96,7 +100,8 @@ overlaps, where bias can be unique or amplified.
 
 1. **Prioritize:**
     * **Which intersections?** Focus on those highlighted by historical context (HCA), stakeholders, domain knowledge,
-      or preliminary data scans. Document choices in `templates/intersectional-analysis.md`.
+      or preliminary data scans. Document choices
+      in [intersectional-analysis.md](../../templates/assessment/intersectional-analysis.md).
     * **Got data?** Check if prioritized groups have enough data for meaningful (even if cautious) analysis.
 
 2. **Disaggregate Metrics:**
@@ -104,7 +109,8 @@ overlaps, where bias can be unique or amplified.
       difference for {Black women, White women, Black men, White men}).
     * **Compare:** Look for differences *between* intersectional groups, and compare their results to single-attribute
       groups or the overall average.
-    * **Document:** Record results in `templates/intersectional-analysis.md`.
+   * **Document:** Record results
+     in [intersectional-analysis.md](../../templates/assessment/intersectional-analysis.md).
 
 3. **Visualize:** Use charts (heatmaps, bar charts) to show intersectional results clearly.
 
@@ -115,19 +121,23 @@ overlaps, where bias can be unique or amplified.
 
 ### Practical Steps within the Framework
 
-1. **Plan:** State prioritized intersections in `assessment-plan.md`.
+1. **Plan:** State prioritized intersections in [assessment-plan.md](../../templates/assessment/assessment-plan.md).
 2. **Implement (MIA):** Calculate metrics for these intersections.
 3. **Analyze:** Compare results. Look for compounding effects or unique patterns.
-4. **Document:** Use `templates/intersectional-analysis.md` for methodology, results, findings, and limitations.
+4. **Document:** Use [intersectional-analysis.md](../../templates/assessment/intersectional-analysis.md) for
+   methodology, results, findings, and limitations.
 5. **Connect:** Link findings back to potential bias sources (BSI) and historical context (HCA).
 6. **Recommend:** Tailor interventions based on intersectional findings.
 
 ### Handling Limitations
 
 * **Acknowledge Sparsity:** If data is too limited for certain intersections, state this clearly in
-  `templates/limitations-acknowledgment.md` and `templates/intersectional-analysis.md`. Avoid overstating findings from
+  [limitations.md](../../templates/assessment/limitations.md)
+  and [intersectional-analysis.md](../../templates/assessment/intersectional-analysis.md). Avoid overstating findings
+  from
   small samples.
-* **Use Qualitative Data:** Combine quantitative results with insights from stakeholder engagement (Part 1) for richer
+* **Use Qualitative Data:** Combine quantitative results with insights from stakeholder
+  engagement ([Part 1](#part-1-engaging-stakeholders-effectively)) for richer
   context.
 
 Including stakeholder engagement and intersectional analysis makes fairness assessments more robust, context-aware, and

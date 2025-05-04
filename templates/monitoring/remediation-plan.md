@@ -41,8 +41,8 @@
 
 ### Intervention 1: [Name of Intervention]
 
-**Description
-**: [Detailed description of the proposed change (e.g., retrain model with specific constraints, adjust feature X, modify post-processing rule).]
+**Description**:
+[Detailed description of the proposed change (e.g., retrain model with specific constraints, adjust feature X, modify post-processing rule).]
 
 **Targeted Bias Source(s)**: [Which bias source(s) this intervention addresses]
 

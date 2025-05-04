@@ -13,7 +13,7 @@
   - [7. Compliance Documentation Package](#7-compliance-documentation-package)
 - [Regulatory Framework Adaptations](#regulatory-framework-adaptations)
   - [EU AI Act Adaptation](#eu-ai-act-adaptation)
-  - [EEOC/US Employment Adaptation](#eecous-employment-adaptation)
+  - [EEOC/US Employment Adaptation](#eeocus-employment-adaptation)
   - [Financial Services Adaptation](#financial-services-adaptation)
 - [Documentation Considerations](#documentation-considerations)
   - [Evidentiary Standards](#evidentiary-standards)
@@ -26,7 +26,7 @@ compliance, or formal governance processes.
 
 ## Workflow Overview
 
-<div align="center">
+<div style="text-align: center;">
 <img src="/resources/diagrams/regulatory-compliance.png" alt="Regulatory Compliance Workflow" width="600" style="max-height: 500px; object-fit: contain;">
 </div>
 

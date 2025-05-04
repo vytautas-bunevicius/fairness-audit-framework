@@ -10,13 +10,15 @@
     - [Key Regulatory Considerations](#key-regulatory-considerations-examples---refer-to-specific-laws-for-full-detail)
     - [Tips for Compliance](#tips-for-compliance)
 
-This guide helps you tailor the Fairness Audit Framework for specific industries or applications (Part 1) and use it to
-meet fairness-related legal and regulatory requirements (Part 2).
+This guide helps you tailor the Fairness Audit Framework for specific industries or
+applications ([Part 1](#part-1-adapting-the-framework-to-your-domain)) and use it to meet fairness-related legal and
+regulatory requirements ([Part 2](#part-2-using-the-framework-for-regulatory-compliance)).
 
 ## Part 1: Adapting the Framework to Your Domain
 
 The core framework (HCA -> FDS -> BSI -> MIA) is flexible, but fairness issues are highly context-dependent. Here’s how
-to adapt it:
+to adapt it (also see [Causal Fairness Analysis Guide](/resources/guides/causal-fairness-analysis.md) for deeper
+analysis):
 
 ### Key Adaptation Steps
 
@@ -33,17 +35,21 @@ to adapt it:
 
 2. **Tailor Each Component:**
     * **Historical Context (HCA):** Prioritize researching and documenting the domain-specific patterns identified above
-      in `templates/historical-context-report.md`.
-    * **Fairness Definitions (FDS):** Select definitions in `templates/fairness-definition-rationale.md` that directly
+      in [Historical Context Assessment](/templates/assessment/historical-context.md).
+    * **Fairness Definitions (FDS):** Select definitions
+      in [Fairness Definition](/templates/assessment/fairness-definition.md) that directly
       address the key harms and values of the domain.
-    * **Bias Sources (BSI):** Focus investigation in `templates/bias-source-mapping.md` on lifecycle stages and data
+    * **Bias Sources (BSI):** Focus investigation in [Bias Source Mapping](/templates/assessment/bias-source-mapping.md)
+      on lifecycle stages and data
       types known to be problematic in the domain.
-    * **Metrics (MIA):** Choose metrics in `templates/metrics-implementation.md` that reflect domain-specific outcomes
+    * **Metrics (MIA):** Choose metrics in [Metrics Implementation](/templates/assessment/metrics-implementation.md)
+      that reflect domain-specific outcomes
       and align with selected definitions.
 
 3. **Engage Domain Stakeholders:** Include people with deep domain expertise *and* individuals representing groups
-   typically affected by decisions in this domain. Document engagement in `templates/stakeholder-documentation.md`. See
-   `resources/stakeholder-intersectionality.md` for methods.
+   typically affected by decisions in this domain. Document engagement
+   in [Stakeholder Engagement Documentation](/templates/stakeholder/engagement-documentation.md). See
+   [Stakeholder Engagement Guide](/resources/guides/stakeholder-engagement.md) for methods.
 
 ### Example Domain Considerations (Summary - Expand based on need)
 
@@ -69,24 +75,26 @@ This framework helps structure analysis and documentation for regulatory needs.
 ### General Compliance Strategy
 
 1. **Identify Regulations:** Determine applicable laws based on jurisdiction, domain, and risk level (document in
-   `assessment-plan.md`).
+   [Assessment Plan](/templates/assessment/assessment-plan.md)).
 2. **Map Requirements:** List specific fairness requirements from each regulation (documentation, testing, process,
    monitoring).
-3. **Select Workflow:** Use `framework/workflows/regulatory.md`.
+3. **Select Workflow:** Use [Regulatory Compliance Workflow](/framework/workflows/04-regulatory-compliance.md).
 4. **Focus Assessment:** Tailor HCA, FDS, BSI, MIA to *directly address* the mapped requirements. Justify choices
    explicitly in relation to the regulation.
-5. **Generate Core Docs:** Complete the standard templates (`templates/*.md`).
+5. **Generate Core Docs:** Complete the standard templates in the [assessment](/templates/assessment/) directory.
 6. **Create Supplements:** Produce any *additional* documents required by specific regulations (e.g., EU AI Act Annex IV
    package, EEOC validation report). These supplements should *reference* the core documentation.
 7. **Emphasize Evidence:** Ensure robust justification (especially for FDS) and statistical validation (in MIA) where
    required.
-8. **Document Limitations:** Use `templates/limitations-acknowledgment.md` transparently.
+8. **Document Limitations:** Use [Limitations Acknowledgment](/templates/assessment/limitations.md) transparently.
 
 ### Key Regulatory Considerations (Examples - Refer to specific laws for full detail)
 
 * **EU AI Act (High-Risk):** Requires extensive *Technical Documentation* (aligns with BSI, MIA, plan templates), *Risk
   Management* documentation (aligns with BSI, HCA), *Data Governance* records (aligns with BSI). May require a
-  *Fundamental Rights Impact Assessment (FRIA)*. Use Regulatory workflow and create specific output packages referencing
+  *Fundamental Rights Impact Assessment (FRIA)*.
+  Use [Regulatory Compliance Workflow](/framework/workflows/04-regulatory-compliance.md) for the Regulatory workflow and
+  create specific output packages referencing
   framework templates.
 * **US EEOC (Employment):** Requires demonstrating *job-relatedness* and *business necessity* if disparate impact (e.g.,
   violation of 4/5ths rule) is found. Requires considering *less discriminatory alternatives*. Document this analysis in

@@ -71,7 +71,6 @@ Each major component of the framework is versioned independently:
 
 For each component, maintain a version history that includes:
 
-```markdown
 ## Version History
 
 ### v1.2.0 (2025-02-15)
@@ -89,7 +88,21 @@ For each component, maintain a version history that includes:
 ### v1.0.0 (2024-08-01)
 
 - Initial release of Historical Context Assessment component
-```
+
+<a id="version-history"></a>
+## Version History
+
+This section provides a comprehensive history of changes to the framework and its components.
+For each version, the
+following information is documented:
+
+- Version number
+- Release date
+- Summary of changes
+- Rationale for changes
+- Impact on assessments
+
+See the [Version Metadata File](#version-metadata-file) section for an example of how to document version history.
 
 ## Assessment Versioning
 
@@ -122,17 +135,29 @@ MAJOR.MINOR
 
 Each assessment must document the framework component versions used:
 
-```markdown
 ## Framework Versions Used
 
-| Component | Version |
-|-----------|---------|
-| Historical Context Assessment | 1.2.0 |
-| Fairness Definition Selection | 1.3.1 |
-| Bias Source Identification | 1.1.0 |
-| Comprehensive Metrics | 1.4.2 |
-| Integration Methodology | 1.2.1 |
-```
+| Component                     | Version |
+|-------------------------------|---------|
+| Historical Context Assessment | 1.2.0   |
+| Fairness Definition Selection | 1.3.1   |
+| Bias Source Identification    | 1.1.0   |
+| Comprehensive Metrics         | 1.4.2   |
+| Integration Methodology       | 1.2.1   |
+
+<a id="framework-versions-used"></a>
+## Framework Versions Used
+
+Each assessment must document which versions of the framework components were used.
+This ensures reproducibility and
+proper tracking of methodologies applied.
+The documentation should include:
+
+- Framework major version
+- Version of each component used
+- Date of each component version
+
+See the [Component Version Documentation](#component-version-documentation) section for an example format.
 
 ## Versioning Documentation Requirements
 
@@ -221,7 +246,6 @@ For GitHub-based version control:
 
 Each assessment includes a `VERSION.md` file with:
 
-```markdown
 # Version Information
 
 ## Current Version
@@ -232,20 +256,40 @@ Each assessment includes a `VERSION.md` file with:
 
 ## Component Versions
 
-| Component | Version |
-|-----------|---------|
-| Historical Context Assessment | 1.2.0 |
-| Fairness Definition Selection | 1.3.1 |
-| Bias Source Identification | 1.1.0 |
-| Comprehensive Metrics | 1.4.2 |
-| Integration Methodology | 1.2.1 |
+| Component                     | Version |
+|-------------------------------|---------|
+| Historical Context Assessment | 1.2.0   |
+| Fairness Definition Selection | 1.3.1   |
+| Bias Source Identification    | 1.1.0   |
+| Comprehensive Metrics         | 1.4.2   |
+| Integration Methodology       | 1.2.1   |
 
 ## Version History
 
 - v1.2: 2025-06-15 - Added new bias sources and metrics
 - v1.1: 2025-05-10 - Updated historical context with new research
 - v1.0: 2025-04-20 - Initial assessment
-```
+
+## Current Version
+
+The current version of the framework and its components should be clearly documented and easily accessible.
+This information should include:
+
+- Framework version number
+- Release date
+- Lead maintainer or point of contact
+
+See the [Version Metadata File](#version-metadata-file) section for an example format.
+
+<a id="component-versions"></a>
+## Component Versions
+
+Each component of the framework has its own version number and update cycle.
+This section documents the current version
+of each component and its compatibility with other components.
+
+See the [Framework Component Versioning](#framework-component-versioning) section for an example of how to document
+component versions.
 
 ## Cross-Version Analysis
 
@@ -253,23 +297,36 @@ Each assessment includes a `VERSION.md` file with:
 
 For systems assessed multiple times, include cross-version analysis:
 
-```markdown
 ## Longitudinal Analysis
 
 ### Fairness Metric Trends
 
-| Metric | v1.0 | v1.1 | v1.2 | Trend |
-|--------|------|------|------|-------|
+| Metric             | v1.0 | v1.1 | v1.2 | Trend     |
+|--------------------|------|------|------|-----------|
 | Demographic Parity | 0.82 | 0.85 | 0.88 | Improving |
-| Equal Opportunity | 0.76 | 0.79 | 0.85 | Improving |
-| Predictive Parity | 0.91 | 0.92 | 0.91 | Stable |
+| Equal Opportunity  | 0.76 | 0.79 | 0.85 | Improving |
+| Predictive Parity  | 0.91 | 0.92 | 0.91 | Stable    |
 
 ### Key Improvements
 
 - Bias source BS003 (training data imbalance) shows 35% reduction since initial assessment
 - Intersectional disparities decreased across 4/5 measured dimensions
 - Documentation completeness increased from 82% to 97%
-```
+
+<a id="longitudinal-analysis"></a>
+## Longitudinal Analysis
+
+Longitudinal analysis tracks fairness metrics and other key indicators across multiple assessment versions over time.
+This analysis helps identify trends, measure progress, and evaluate the effectiveness of interventions.
+
+Key components of longitudinal analysis include:
+
+- Trend analysis of fairness metrics
+- Documentation of key improvements
+- Identification of persistent issues
+- Correlation of changes with interventions
+
+See the [Cross-Version Analysis](#cross-version-analysis) section for an example format.
 
 ## Stakeholder Communication
 
@@ -284,7 +341,7 @@ When releasing new assessment versions:
 
 Example stakeholder notification:
 
-```
+```markdown
 Subject: Fairness Assessment Update (v1.2) - [System Name]
 
 Dear Stakeholders,
@@ -295,7 +352,8 @@ We've updated the fairness assessment for [System Name] to version 1.2. Key chan
 • Implemented new metrics measuring impact on single-parent households
 • Updated our historical context with recently published research
 
-Impact: These changes revealed a previously unidentified 8% disparity for applicants with seasonal income. We've added a new recommendation addressing this finding.
+Impact: These changes revealed a previously unidentified 8% disparity for applicants with seasonal income. We've added a
+new recommendation addressing this finding.
 
 The complete assessment is available at [link]. Please contact [name] with any questions.
 

@@ -48,7 +48,7 @@ A causal graph (DAG) represents variables as nodes and causal relationships as d
   income)
 - **Paths**: Sequences of edges representing indirect causal influence
 
-<div align="center">
+<div style="text-align: center;">
 <img src="../diagrams/societal-factors-ai-decision.png" alt="Societal Factors and AI Decision Causal Graph" width="600">
 </div>
 
@@ -265,7 +265,7 @@ A mortgage loan approval system uses applicant characteristics to determine appr
 
 ### Initial Causal Graph
 
-<div align="center">
+<div style="text-align: center;">
 <img src="../diagrams/loan-approval-system.png" alt="Loan Approval System Causal Graph" width="600">
 </div>
 

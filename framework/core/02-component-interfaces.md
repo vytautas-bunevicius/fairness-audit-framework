@@ -19,7 +19,7 @@ system.
 The Fairness Audit Framework integrates four complementary components through standardized interfaces and data exchange
 formats:
 
-<div align="center">
+<div style="text-align: center;">
 <img src="/resources/diagrams/ai-fairness-pipeline.png" alt="AI Fairness Pipeline" width="600" style="max-height: 300px; object-fit: contain;">
 </div>
 

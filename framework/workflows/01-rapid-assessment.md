@@ -21,8 +21,8 @@ screening assessments, lower-risk applications, or when time and resources are l
 
 ## Workflow Overview
 
-<div align="center">
-<img src="/resources/diagrams/rapid-workflow.png" alt="Rapid Assessment Workflow" width="600">
+<div style="text-align: center;">
+<img src="/resources/diagrams/rapid-workflow.png" alt="Rapid Assessment Workflow" width="600" style="max-height: 450px; object-fit: contain;">
 </div>
 
 The rapid assessment follows this streamlined structure:

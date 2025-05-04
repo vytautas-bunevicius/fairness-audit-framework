@@ -24,7 +24,7 @@ stringent, or when fairness concerns are particularly salient.
 
 ## Workflow Overview
 
-<div align="center">
+<div style="text-align: center;">
 <img src="/resources/diagrams/comprehensive-workflow.png" alt="Comprehensive Assessment Workflow" width="600" style="max-height: 450px; object-fit: contain;">
 </div>
 
