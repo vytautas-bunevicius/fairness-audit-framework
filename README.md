@@ -169,4 +169,4 @@ This framework builds upon work from:
 
 ## License
 
-This project is released under the Unlicense. See the **`LICENSE`** file for details.
+This project is released under the Unlicense. See the [LICENSE](LICENSE) file for details.
